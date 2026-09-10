@@ -1,0 +1,418 @@
+[
+  {
+    "id": "blackwork",
+    "name": "BLACKWORK",
+    "description": "Diseños dominados por negro sólido, contraste y formas contundentes.",
+    "history": "Tiene raíces en tradiciones de tatuaje de alto contraste y en reinterpretaciones contemporáneas.",
+    "lines": "Puede usar contornos fuertes y masas negras definidas.",
+    "shading": "El contraste suele ser protagonista; puede combinar negro sólido con piel negativa.",
+    "composition": "Masas, ritmo y espacio negativo son fundamentales.",
+    "difficulty": "Intermedio",
+    "elements": [
+      "Negro sólido",
+      "Alto contraste",
+      "Espacio negativo",
+      "Geometría"
+    ],
+    "tips": [
+      "Estudia el equilibrio entre masa y piel negativa.",
+      "Prioriza una silueta clara."
+    ]
+  },
+  {
+    "id": "blackgrey",
+    "name": "BLACK & GREY",
+    "description": "Uso de negro, grises y piel para construir volumen y atmósfera.",
+    "history": "Se consolidó como lenguaje visual moderno con fuerte desarrollo en Estados Unidos y otras escenas.",
+    "lines": "La línea puede variar según realismo, retrato o composición.",
+    "shading": "Valores, transiciones y gradientes son centrales.",
+    "composition": "La jerarquía de valores dirige la lectura.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Valores",
+      "Gradientes",
+      "Contraste",
+      "Retrato"
+    ],
+    "tips": [
+      "Trabaja una escala de valores antes de añadir detalle.",
+      "Evita perder el contraste global."
+    ]
+  },
+  {
+    "id": "realism",
+    "name": "REALISMO",
+    "description": "Busca representar sujetos con volumen, textura y proporción convincentes.",
+    "history": "Se desarrolló mediante la evolución de técnicas de dibujo, pintura y tatuaje contemporáneo.",
+    "lines": "Puede reducirse para que los valores construyan la forma.",
+    "shading": "Transiciones suaves y valores controlados.",
+    "composition": "La referencia y el encuadre determinan la lectura.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Retrato",
+      "Textura",
+      "Valores",
+      "Luz"
+    ],
+    "tips": [
+      "Aprende a ver masas antes que detalles.",
+      "Comprueba proporciones constantemente."
+    ]
+  },
+  {
+    "id": "colorrealism",
+    "name": "REALISMO A COLOR",
+    "description": "Realismo apoyado en relaciones de color, temperatura y valor.",
+    "history": "Evolucionó junto con pigmentos y técnicas contemporáneas de tatuaje.",
+    "lines": "La línea puede ser discreta o integrada con valores.",
+    "shading": "Transiciones y mezcla visual de colores son importantes.",
+    "composition": "La jerarquía debe sobrevivir incluso al color.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Color",
+      "Temperatura",
+      "Valores",
+      "Textura"
+    ],
+    "tips": [
+      "Comprueba el diseño en escala de grises.",
+      "No dependas únicamente de la saturación."
+    ]
+  },
+  {
+    "id": "traditional",
+    "name": "TRADITIONAL",
+    "description": "Lenguaje de formas claras, contornos definidos y símbolos reconocibles.",
+    "history": "Relacionado con la evolución del tatuaje occidental moderno y sus códigos visuales.",
+    "lines": "Contornos definidos y consistentes.",
+    "shading": "Sombras gráficas y simplificadas.",
+    "composition": "Lectura inmediata y silueta clara.",
+    "difficulty": "Intermedio",
+    "elements": [
+      "Contorno",
+      "Color plano",
+      "Iconografía",
+      "Silueta"
+    ],
+    "tips": [
+      "Estudia proporción y simplificación.",
+      "La claridad suele ganar al exceso de detalle."
+    ]
+  },
+  {
+    "id": "neotraditional",
+    "name": "NEO TRADITIONAL",
+    "description": "Amplía la tradición con más detalle, volumen y paletas sofisticadas.",
+    "history": "Surgió como evolución contemporánea de lenguajes tradicionales.",
+    "lines": "Contornos fuertes con jerarquía interna.",
+    "shading": "Más volumen y gradaciones que el traditional clásico.",
+    "composition": "Formas ornamentales y focos definidos.",
+    "difficulty": "Intermedio · Avanzado",
+    "elements": [
+      "Ornamento",
+      "Volumen",
+      "Color",
+      "Contorno"
+    ],
+    "tips": [
+      "Mantén la silueta legible.",
+      "Usa detalle para reforzar, no para ocultar problemas."
+    ]
+  },
+  {
+    "id": "newschool",
+    "name": "NEW SCHOOL",
+    "description": "Formas exageradas, volumen gráfico, color intenso y estética caricaturesca.",
+    "history": "Se popularizó como evolución experimental de lenguajes tradicionales.",
+    "lines": "Líneas expresivas y contrastadas.",
+    "shading": "Volumen gráfico y transiciones marcadas.",
+    "composition": "Perspectiva exagerada y movimiento.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Exageración",
+      "Color",
+      "Volumen",
+      "Movimiento"
+    ],
+    "tips": [
+      "Estudia anatomía aunque el resultado sea caricaturesco.",
+      "Controla el punto focal."
+    ]
+  },
+  {
+    "id": "fineline",
+    "name": "FINE LINE",
+    "description": "Tatuaje basado en líneas delicadas, precisión y economía visual.",
+    "history": "Se relaciona con tendencias contemporáneas de dibujo fino y minimalismo.",
+    "lines": "Finísimas y controladas.",
+    "shading": "Puede ser mínimo o basado en microtramas.",
+    "composition": "Espacio negativo y escala son críticos.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Línea fina",
+      "Minimalismo",
+      "Detalle",
+      "Espacio"
+    ],
+    "tips": [
+      "La limpieza visual es prioritaria.",
+      "No confundas pequeño con sencillo."
+    ]
+  },
+  {
+    "id": "minimalist",
+    "name": "MINIMALISTA",
+    "description": "Reduce la imagen a formas, líneas y elementos esenciales.",
+    "history": "Relacionado con corrientes modernas de diseño y simplificación visual.",
+    "lines": "Limpias y deliberadas.",
+    "shading": "Generalmente limitado.",
+    "composition": "Mucho espacio negativo y jerarquía simple.",
+    "difficulty": "Intermedio",
+    "elements": [
+      "Síntesis",
+      "Espacio negativo",
+      "Iconos",
+      "Línea"
+    ],
+    "tips": [
+      "Elimina elementos que no aporten.",
+      "Prueba la lectura a varios tamaños."
+    ]
+  },
+  {
+    "id": "ornamental",
+    "name": "ORNAMENTAL",
+    "description": "Patrones decorativos, simetría, repetición y fluidez.",
+    "history": "Conecta con lenguajes decorativos y geométricos de distintas tradiciones.",
+    "lines": "Precisas y repetitivas.",
+    "shading": "Puede incorporar dotwork o degradados.",
+    "composition": "Simetría, ritmo y flujo anatómico.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Patrón",
+      "Simetría",
+      "Ritmo",
+      "Ornamento"
+    ],
+    "tips": [
+      "Construye módulos antes de componer.",
+      "Comprueba la simetría desde el cuerpo."
+    ]
+  },
+  {
+    "id": "geometric",
+    "name": "GEOMÉTRICO",
+    "description": "Formas, proporciones y patrones geométricos aplicados al cuerpo.",
+    "history": "Combina principios de geometría, diseño contemporáneo y tradiciones ornamentales.",
+    "lines": "Precisión y consistencia.",
+    "shading": "Puede usar dotwork o masas geométricas.",
+    "composition": "Proporción, repetición y alineación.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Geometría",
+      "Patrones",
+      "Proporción",
+      "Simetría"
+    ],
+    "tips": [
+      "Mide y verifica antes de finalizar.",
+      "El cuerpo no es una superficie plana."
+    ]
+  },
+  {
+    "id": "dotwork",
+    "name": "DOTWORK",
+    "description": "Construcción visual mediante puntos y densidades.",
+    "history": "Tiene antecedentes en técnicas puntillistas y lenguajes ornamentales.",
+    "lines": "Puede integrarse con contornos o funcionar sin ellos.",
+    "shading": "La densidad de puntos crea valores.",
+    "composition": "Ritmo y distribución controlan el resultado.",
+    "difficulty": "Intermedio · Avanzado",
+    "elements": [
+      "Puntos",
+      "Densidad",
+      "Gradiente",
+      "Ornamento"
+    ],
+    "tips": [
+      "Practica densidad sobre plantillas.",
+      "Observa el resultado desde lejos."
+    ]
+  },
+  {
+    "id": "japanese",
+    "name": "JAPONÉS",
+    "description": "Lenguaje visual tradicional con composición narrativa y flujo corporal.",
+    "history": "Posee una historia cultural compleja y profunda; debe estudiarse con contexto.",
+    "lines": "Contornos claros y jerarquía definida.",
+    "shading": "Masas y gradaciones apoyan la lectura.",
+    "composition": "Flujo corporal y narrativa son esenciales.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Narrativa",
+      "Flujo",
+      "Naturaleza",
+      "Composición"
+    ],
+    "tips": [
+      "Estudia iconografía y contexto cultural.",
+      "Evita mezclar símbolos sin comprender su significado."
+    ]
+  },
+  {
+    "id": "chicano",
+    "name": "CHICANO",
+    "description": "Lenguaje asociado a una rica historia cultural, lettering, retrato y black & grey.",
+    "history": "Nace de comunidades chicanas y de una historia social y artística específica.",
+    "lines": "Contornos y lettering requieren gran precisión.",
+    "shading": "Black & Grey es frecuente.",
+    "composition": "Retrato, texto y símbolos se organizan con jerarquía.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Lettering",
+      "Retrato",
+      "Black & Grey",
+      "Símbolos"
+    ],
+    "tips": [
+      "Investiga el contexto cultural.",
+      "Estudia tipografía además del tatuaje."
+    ]
+  },
+  {
+    "id": "lettering",
+    "name": "LETTERING",
+    "description": "Tatuaje basado en tipografía, composición y legibilidad.",
+    "history": "Evoluciona junto con caligrafía, tipografía y cultura del tatuaje.",
+    "lines": "Control preciso del trazo.",
+    "shading": "Depende del estilo tipográfico.",
+    "composition": "Espaciado, ritmo y jerarquía.",
+    "difficulty": "Intermedio · Avanzado",
+    "elements": [
+      "Tipografía",
+      "Caligrafía",
+      "Espaciado",
+      "Jerarquía"
+    ],
+    "tips": [
+      "Estudia anatomía de las letras.",
+      "Comprueba la legibilidad a distancia."
+    ]
+  },
+  {
+    "id": "biomechanical",
+    "name": "BIOMECÁNICO",
+    "description": "Fusiona formas orgánicas con estructuras mecánicas y profundidad visual.",
+    "history": "Se desarrolló como lenguaje contemporáneo influido por arte fantástico y ciencia ficción.",
+    "lines": "Contornos y cortes estructurales definidos.",
+    "shading": "Profundidad, contraste y volumen.",
+    "composition": "Debe seguir la anatomía para crear ilusión.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Volumen",
+      "Mecánico",
+      "Orgánico",
+      "Profundidad"
+    ],
+    "tips": [
+      "Construye la estructura antes del detalle.",
+      "Usa referencias anatómicas y mecánicas."
+    ]
+  },
+  {
+    "id": "abstract",
+    "name": "ABSTRACTO",
+    "description": "Prioriza forma, ritmo, textura y concepto sobre representación literal.",
+    "history": "Conecta con arte abstracto, diseño y experimentación contemporánea.",
+    "lines": "Variable y expresiva.",
+    "shading": "Puede ser libre o geométrica.",
+    "composition": "Equilibrio, ritmo y espacio negativo.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Concepto",
+      "Ritmo",
+      "Forma",
+      "Textura"
+    ],
+    "tips": [
+      "Define una intención visual.",
+      "La abstracción también necesita estructura."
+    ]
+  },
+  {
+    "id": "watercolor",
+    "name": "WATERCOLOR",
+    "description": "Imita gestos, manchas y transparencias asociadas a acuarela.",
+    "history": "Es una reinterpretación contemporánea de recursos pictóricos.",
+    "lines": "Puede usar línea mínima o contrastada.",
+    "shading": "Transiciones y manchas de color.",
+    "composition": "Flujo y manchas controladas.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Mancha",
+      "Color",
+      "Transparencia",
+      "Flujo"
+    ],
+    "tips": [
+      "Piensa en valores además de color.",
+      "Conserva suficiente estructura para mantener lectura."
+    ]
+  },
+  {
+    "id": "microrealism",
+    "name": "MICROREALISMO",
+    "description": "Representación detallada en escalas pequeñas, con exigencia alta de síntesis.",
+    "history": "Tendencia contemporánea relacionada con realismo y formatos reducidos.",
+    "lines": "Muy precisas y jerarquizadas.",
+    "shading": "Valores compactos y transiciones cuidadas.",
+    "composition": "La escala condiciona el detalle posible.",
+    "difficulty": "Avanzado",
+    "elements": [
+      "Miniatura",
+      "Detalle",
+      "Valores",
+      "Precisión"
+    ],
+    "tips": [
+      "Simplifica antes de reducir.",
+      "Evalúa qué detalles sobrevivirán con el tiempo."
+    ]
+  },
+  {
+    "id": "neotribal",
+    "name": "NEOTRIBAL",
+    "description": "Fusión moderna de símbolos tribales con diseño contemporáneo.",
+    "history": "Inspirado en culturas tribales reinterpretadas por artistas actuales.",
+    "lines": "Líneas fuertes y formas orgánicas.",
+    "shading": "Contrastes intensos.",
+    "composition": "Fluye siguiendo la anatomía corporal.",
+    "difficulty": "Intermedio",
+    "elements": [
+      "formas negras",
+      "curvas",
+      "simetría"
+    ],
+    "tips": [
+      "Estudiar composición corporal"
+    ]
+  },
+  {
+    "id": "cybersigilism",
+    "name": "CYBERSIGILISM",
+    "description": "Estética digital futurista con símbolos abstractos.",
+    "history": "Movimiento contemporáneo influenciado por internet y cultura digital.",
+    "lines": "Líneas finas y estructuras complejas.",
+    "shading": "Uso de negro sólido y contraste.",
+    "composition": "Diseños adaptados a zonas pequeñas y medianas.",
+    "difficulty": "Intermedio",
+    "elements": [
+      "símbolos",
+      "futurismo",
+      "digital"
+    ],
+    "tips": [
+      "Mantener equilibrio visual"
+    ]
+  }
+]

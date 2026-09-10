@@ -1,0 +1,30 @@
+#!/usr/bin/env sh
+set -eu
+
+GRADLE_VERSION="${GRADLE_VERSION:-8.14}"
+
+# Opcional: permitir Gradle del sistema solo si se fuerza explícitamente.
+if [ "${ARTATTOO_ALLOW_SYSTEM_GRADLE:-0}" = "1" ] && command -v gradle >/dev/null 2>&1; then
+    exec gradle "$@"
+fi
+
+CACHE_DIR="${GRADLE_USER_HOME:-$HOME/.gradle}/artattoo-gradle/$GRADLE_VERSION"
+GRADLE_HOME="$CACHE_DIR/gradle-$GRADLE_VERSION"
+GRADLE_BIN="$GRADLE_HOME/bin/gradle"
+ZIP="$CACHE_DIR/gradle-$GRADLE_VERSION-bin.zip"
+URL="https://services.gradle.org/distributions/gradle-$GRADLE_VERSION-bin.zip"
+
+if [ ! -x "$GRADLE_BIN" ]; then
+    mkdir -p "$CACHE_DIR"
+
+    if [ ! -f "$ZIP" ]; then
+        echo "Downloading Gradle $GRADLE_VERSION..."
+        curl --fail --location --silent --show-error --retry 3 --retry-delay 2 "$URL" -o "$ZIP"
+    fi
+
+    rm -rf "$GRADLE_HOME"
+    unzip -q "$ZIP" -d "$CACHE_DIR"
+    test -x "$GRADLE_BIN"
+fi
+
+exec "$GRADLE_BIN" "$@"

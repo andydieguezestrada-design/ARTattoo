@@ -1,0 +1,3311 @@
+[
+  {
+    "id": "historia_tatuaje",
+    "category": "Historia",
+    "title": "Historia del tatuaje: de la piel al arte",
+    "summary": "Evolución del tatuaje desde las primeras marcas corporales hasta convertirse en una forma de expresión artística y cultural.",
+    "sections": [
+      {
+        "title": "Orígenes prehistóricos y antigüedad: las primeras marcas",
+        "body": [
+          "El arte de marcar el cuerpo es tan antiguo como la propia humanidad. Durante milenios, el tatuaje ha servido como medicina, amuleto y símbolo de identidad.",
+          "Ötzi, el Hombre del Hielo (3300 a.C.), descubierto en los Alpes, posee más de 61 tatuajes formados por líneas y cruces. Se cree que podían tener un propósito terapéutico o relacionado con tratamientos similares a la acupuntura.",
+          "Estos hallazgos muestran que la modificación corporal mediante marcas permanentes tiene una historia de miles de años."
+        ],
+        "image": "images/history/otzi.jpg"
+      },
+      {
+        "title": "Egipto y Nubia",
+        "body": [
+          "En Egipto y Nubia existen evidencias de tatuajes en momias femeninas, como la sacerdotisa Amunet.",
+          "Los diseños geométricos aparecían principalmente en abdomen y muslos y estaban relacionados con protección, fertilidad y rituales asociados al embarazo y el parto.",
+          "El tatuaje funcionaba como un símbolo espiritual y cultural dentro de estas sociedades antiguas."
+        ],
+        "image": "images/history/egypt.jpg"
+      },
+      {
+        "title": "Polinesia y el origen de la palabra tatuaje",
+        "body": [
+          "La cultura polinesia tuvo una de las tradiciones de tatuaje más desarrolladas del mundo.",
+          "La palabra tatuaje proviene del término tahitiano tatau, relacionado con la acción de golpear o marcar.",
+          "El Tā moko maorí representaba identidad, linaje, posición social y valentía. Era un proceso ritual con profundo significado cultural."
+        ],
+        "image": "images/history/polynesia.jpg"
+      },
+      {
+        "title": "Japón y el Irezumi",
+        "body": [
+          "El tatuaje japonés evolucionó desde símbolos espirituales y sociales hasta convertirse en una disciplina artística altamente desarrollada.",
+          "Durante el periodo Edo (1603-1867), el Irezumi alcanzó gran complejidad visual mediante composiciones extensas, mitología y elementos tradicionales japoneses.",
+          "A pesar de su asociación histórica posterior con grupos criminales, el tatuaje japonés tradicional continúa siendo reconocido por su maestría artística."
+        ],
+        "image": "images/history/japan.jpg"
+      },
+      {
+        "title": "Occidente: prohibición y transformación",
+        "body": [
+          "En algunas etapas de la historia occidental el tatuaje fue rechazado o utilizado como marca de castigo.",
+          "En el Imperio Romano los tatuajes podían utilizarse para marcar esclavos y criminales.",
+          "Posteriormente, con los viajes europeos al Pacífico, especialmente durante las expediciones del siglo XVIII, el tatuaje volvió a despertar interés en Occidente."
+        ],
+        "image": "images/history/western.jpg"
+      },
+      {
+        "title": "La revolución moderna del tatuaje",
+        "body": [
+          "Durante los siglos XIX y XX el tatuaje comenzó su transformación hacia una práctica profesional.",
+          "La creación de la máquina eléctrica de tatuaje en 1891 por Samuel O'Reilly marcó un punto de cambio fundamental.",
+          "La tecnología permitió aumentar la precisión, velocidad y posibilidades artísticas del tatuaje moderno."
+        ],
+        "image": "images/history/machine.jpg"
+      },
+      {
+        "title": "El tatuaje contemporáneo",
+        "body": [
+          "En la actualidad el tatuaje se considera una forma de arte visual, identidad personal y expresión cultural.",
+          "La evolución de las máquinas, pigmentos, técnicas y normas de higiene ha permitido el desarrollo de estilos cada vez más especializados.",
+          "El tatuaje contemporáneo combina tradición, tecnología y creatividad."
+        ],
+        "image": "images/history/modern.jpg"
+      }
+    ]
+  },
+  {
+    "id": "anatomia_piel",
+    "category": "Anatomía",
+    "title": "Anatomía y piel aplicada al tatuaje",
+    "summary": "Comprender la estructura de la piel es esencial para controlar profundidad, cicatrización y resultados a largo plazo.",
+    "sections": [
+      {
+        "title": "Las capas de la piel",
+        "body": [
+          "La piel está compuesta principalmente por epidermis, dermis e hipodermis.",
+          "La epidermis es la capa externa y se renueva constantemente.",
+          "La dermis es la capa donde debe alojarse el pigmento para garantizar estabilidad y duración.",
+          "La hipodermis contiene tejido adiposo y estructuras profundas."
+        ],
+        "image": "images/anatomy/skin_layers.jpg"
+      },
+      {
+        "title": "Profundidad de la aguja",
+        "body": [
+          "La profundidad correcta es uno de los factores más importantes del tatuaje.",
+          "Un trabajo demasiado superficial puede perder pigmento durante la cicatrización.",
+          "Una profundidad excesiva puede aumentar el trauma cutáneo y afectar la calidad del resultado.",
+          "La experiencia permite adaptar la profundidad según la piel y la zona corporal."
+        ],
+        "image": "images/anatomy/depth.jpg"
+      },
+      {
+        "title": "Variaciones según la zona corporal",
+        "body": [
+          "No todas las zonas del cuerpo presentan el mismo grosor, elasticidad o resistencia.",
+          "Áreas como costillas, manos o pies requieren un control técnico diferente.",
+          "El tatuador debe adaptar presión, velocidad y técnica según las características anatómicas."
+        ],
+        "image": "images/anatomy/body_areas.jpg"
+      },
+      {
+        "title": "Stencil y anatomía dinámica",
+        "body": [
+          "El cuerpo humano está en constante movimiento.",
+          "La colocación del diseño debe respetar músculos, articulaciones y flujo anatómico.",
+          "Un buen diseño se adapta a la forma natural del cuerpo."
+        ],
+        "image": "images/anatomy/stencil.jpg"
+      },
+      {
+        "title": "Cicatrización",
+        "body": [
+          "La piel responde al tatuaje mediante un proceso biológico de reparación.",
+          "La cicatrización adecuada influye directamente en la conservación del pigmento.",
+          "Factores como técnica, cuidados posteriores y tipo de piel afectan el resultado final."
+        ],
+        "image": "images/anatomy/healing.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_tatuaje",
+    "category": "Técnicas",
+    "title": "Técnicas del tatuaje: manual técnico y profesional",
+    "summary": "Manual técnico sobre linework, shading, color packing, dotwork, freehand, adaptación anatómica, higiene y gestión del trauma cutáneo.",
+    "sections": [
+      {
+        "title": "Linework — técnica de línea y trazado",
+        "body": [
+          "El trazado limpio y preciso es la base de todo tatuaje sólido. Una línea defectuosa es prácticamente imposible de corregir sin alterar el diseño original.",
+          "Selección de agujas:",
+          "RL (Round Liner): Agujas agrupadas en círculo cerrado para líneas definidas.",
+          "3RL - 5RL: Para detalles finos, fine-line y micro-realismo.",
+          "7RL - 9RL: Grosor estándar para contornos tradicionales y sólidos.",
+          "11RL - 18RL: Para líneas gruesas, Bold Line o estilo Old School.",
+          "RS (Round Shader): Agujas agrupadas en círculo abierto. Aunque son para sombreado pequeño, se usan para trazar líneas de gran grosor o de relleno directo.",
+          "Relación Voltaje / Velocidad de la Mano:",
+          "La clave de una línea uniforme es la sincronización entre la velocidad con la que se mueve la mano y la velocidad a la que bate la aguja (Hz/Voltios).",
+          "Voltaje muy alto + Mano lenta: Provoca traumatismo severo, líneas ensanchadas o posible blowout.",
+          "Voltaje muy bajo + Mano rápida: Genera líneas discontinuas (\"efecto sierra\" o puntos separados).",
+          "Ángulo y Profundidad:",
+          "Inclinación recomendada: Entre 45° y 75° en dirección hacia donde avanza la línea. Esto permite que la tinta fluya de forma fluida desde el cartucho/punteira.",
+          "Mantener la misma profundidad constante (1.5 mm a 2.0 mm aprox.) en todo el recorrido.",
+          "Estiramiento de la Piel (Skin Stretching):",
+          "Con la mano libre, estirar la piel firmemente en tres direcciones (o al menos en sentido opuesto al avance de la aguja) para crear una superficie rígida como un tambor. Esto previene que la aguja enganche la piel flexible."
+        ]
+      },
+      {
+        "title": "Shading y sombras — Grey Wash y gradientes",
+        "body": [
+          "El sombreado otorga volumen, tridimensionalidad y atmósfera a la composición.",
+          "Tinta y Diluciones (Grey Wash):",
+          "Sistema de 3 a 5 tonos: Se prepara una escala cromática de negro a gris claro mediante dilución con agua destilada, glicerina o mezcladores comerciales.",
+          "Tono Oscuro (Negro Puro o 80-100%): Para contrastes profundos y sombras base.",
+          "Tono Medio (40-50%): Transiciones principales y volumen muscular/orgánico.",
+          "Tono Claro (10-20%): Tonos de piel suaves, mapas de sombra iniciales y luces.",
+          "Agujas Recomendadas:",
+          "M1 (Magnum Recta): Agujas en dos hileras escalonadas. Alta saturación.",
+          "RM / CM (Curved/Round Magnum): Agujas con punta arqueada. Reducen el impacto en los bordes, permitiendo degradados ultrasuaves sin dejar marcas de esquina.",
+          "Movimientos de Aplicación:",
+          "Movimiento en Péndulo: La aguja entra a la piel en ángulo, alcanza su punto más profundo en el centro y sale suavemente. Ideal para degradados continuos.",
+          "Movimiento de Barrido (Whip Shading): Entrada rápida y salida expulsada hacia afuera para crear sombras texturizadas, punteadas o desvanecidas.",
+          "Movimientos Circulares: Utilizado con voltajes bajos y tonos claros para lograr superficies homogéneas sin textura visible (común en realismo blanco y negro)."
+        ]
+      },
+      {
+        "title": "Color Packing y mezcla de tintas",
+        "body": [
+          "Lograr una saturación sólida y vibrante requiere una técnica de depósito diferente a la del sombreado suave.",
+          "Técnica de Relleno (Color Packing):",
+          "Se utilizan agrupaciones Magnum (M1 o RM) con un ángulo más plano (alrededor de 45°).",
+          "Movimientos pequeños, apretados y circulares (\"overlap\" continuo) asegurando que cada pasada monte ligeramente sobre la anterior.",
+          "Evitar pasar múltiples veces sobre la misma zona saturada para no macerar la piel.",
+          "Teoría y Capas de Pigmentación:",
+          "Trabajar siempre de tonos oscuros a tonos claros para evitar teñir las áreas claras con pigmento oscuro durante la limpieza.",
+          "Mezcla en Piel: Se puede fundir un color claro sobre uno oscuro aplicando el tono claro en el borde de transición con movimientos suaves en péndulo.",
+          "Gestión del Trauma en Color:",
+          "Debido a la mayor densidad molecular de algunos pigmentos de color (como blancos, amarillos o rojos), la tentación es profundizar más. La solución no es profundizar, sino mantener la consistencia en el pulso y la saturación."
+        ]
+      },
+      {
+        "title": "Dotwork y texturizado — puntillismo y stippling",
+        "body": [
+          "El puntillismo utiliza la acumulación o dispersión de puntos individuales para crear degradados, sombras y texturas geométricas.",
+          "Ajuste de Parámetros:",
+          "Se trabaja con un voltaje intencionalmente bajo (frecuencia lenta de la máquina) combinado con un movimiento de mano moderado o rápido.",
+          "Cada impacto de la aguja deja un punto único perfectamente definido.",
+          "Trazado de Puntos y Variación:",
+          "Mayor densidad de puntos = Sombra más oscura y cerrada.",
+          "Menor densidad / mayor separación = Iluminación y tono de transición.",
+          "Agujas más recomendadas: 3RL a 7RL para dotwork geométrico fino; 9RL o RS para texturas más rústicas.",
+          "Pepper Shading: Variante donde se realiza un barrido rápido con cartuchos finos y voltaje medio, logrando un efecto de \"pimienta espolvoreada\" muy usado en estilos ilustrativos y Blackwork."
+        ]
+      },
+      {
+        "title": "Freehand y adaptación anatómica",
+        "body": [
+          "El \"Freehand\" (diseño a mano alzada directamente sobre la piel) permite una adaptación orgánica perfecta que el stencil impreso en papel muchas veces no logra.",
+          "Marcadores y Capas de Dibujo:",
+          "Capa 1 (Estructura): Marcador de color claro (amarillo o naranja) para definir volúmenes generales y ejes de movimiento.",
+          "Capa 2 (Detalle medio): Marcador de color intermedio (rojo o verde) para estructurar las formas principales.",
+          "Capa 3 (Línea definitiva): Marcador oscuro (púrpura de dibujo quirúrgico o negro) para definir el trazo que seguirá la aguja.",
+          "Lectura del Flujo Anatómico:",
+          "Dibujar con el cliente en postura erguida y neutra.",
+          "Seguir la torsión de las fibras musculares. Un diseño rígido rompe la armonía del cuerpo en movimiento; un diseño adaptado se expande y contrae orgánicamente."
+        ]
+      },
+      {
+        "title": "Higiene, inclinación y gestión del trauma cutáneo",
+        "body": [
+          "Preservar la integridad de la piel durante la sesión es indispensable para garantizar una cicatrización impecable y mantener los pigmentos intactos.",
+          "Control del Estiramiento de la Piel (Skin Stretching):",
+          "Un mal estiramiento obliga al tatuador a presionar más profundo de lo necesario, provocando traumatismo innecesario.",
+          "El estiramiento adecuado permite que la aguja entre y salga limpiamente sin \"rebotar\" ni rasgar la capa dérmica.",
+          "Ergonomía y Manejo de la Máquina:",
+          "Sujeción del grip: Mantener la mano relajada. La presión excesiva en los dedos transmite vibraciones indeseadas y fatiga la muñeca, afectando la precisión.",
+          "Apoyo: Mantener siempre un punto de apoyo firme (el dedo meñique o el antebrazo) sobre la piel del cliente o la mesa de trabajo.",
+          "Limpieza durante la Sesión:",
+          "Utilizar jabón verde (Green Soap) o soluciones antisépticas diluidas para limpiar el exceso de tinta.",
+          "No frotar en exceso con el papel seco. Aplicar suave toques para no irritar la epidermis ya lacerada.",
+          "Uso de mantecas o vaselina médica: Aplicar capas ultra finas durante el proceso para lubricar el paso de la aguja y evitar que la tinta derramada manche la piel, manteniendo el campo visual limpio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_tatuaje",
+    "category": "Máquinas",
+    "title": "Máquinas de tatuar: funcionamiento, stroke y voltaje",
+    "summary": "Guía técnica sobre tipos de máquinas de tatuar, funcionamiento interno, stroke, voltaje, frecuencia y relación entre estos parámetros.",
+    "sections": [
+      {
+        "title": "Tipos De Máquinas Y Funcionamiento Interno",
+        "body": [
+          "Comprender la mecánica interna de la herramienta permite ajustar la entrega de",
+          "fuerza y velocidad según las necesidades de la piel y la técnica a realizar.",
+          "Máquinas de Bobinas (Coil Machines):",
+          "Mecanismo: Funcionan mediante un circuito electromagnético. Dos bobinas de cobre",
+          "generan un campo magnético que atrae la barra de armadura (Armature Bar) hacia abajo.",
+          "Un tornillo de contacto rompe el circuito eléctrico, permitiendo que un muelle o",
+          "resorte devuelva la barra a su posición inicial, creando un movimiento oscilatorio.",
+          "Características:",
+          "Entrega de impacto \"duro\" con retroceso elástico natural.",
+          "Sonido característico y vibración pronunciada.",
+          "Requieren calibración manual (ajuste del tornillo de contacto, dureza de resortes).",
+          "Especializadas: Suelen calibrarse específicamente como \"Liners\" (trazadoras rápidas)",
+          "o \"Shaders\" (sombreadoras de golpe más lento y contundente).",
+          "Máquinas Rotativas de Pistón / Levantador (Direct Drive & Swashdrive):",
+          "Mecanismo: Un motor eléctrico hace girar una leva (cam) excéntrica que convierte",
+          "el movimiento giratorio del motor en un movimiento lineal alternativo mediante",
+          "una biela o un rodamiento.",
+          "Características:",
+          "Silenciosas y de baja vibración.",
+          "Golpe directo y constante (sin el \"freno\" elástico del muelle de bobinas).",
+          "Versátiles para múltiples tipos de agujas y cartuchos.",
+          "Máquinas Tipo Pen (Rotativas de Cartucho):",
+          "Mecanismo: Incorporan un motor dentro de un chasis cilíndrico. El eje del motor",
+          "mueve un mecanismo de rampa circular o rodamiento oscilante que empuja el émbolo",
+          "del cartucho, mientras que la membrana interna del propio cartucho actúa como muelle",
+          "de retorno.",
+          "Características:",
+          "Formato ergonómico similar a un bolígrafo o marcador grueso.",
+          "Diseñadas exclusivamente para sistemas de cartuchos.",
+          "Reducen drásticamente la fatiga muscular en la mano."
+        ]
+      },
+      {
+        "title": "El Stroke (Recorrido O Carrera De La Aguja)",
+        "body": [
+          "El stroke es la distancia lineal total que recorre la aguja desde su posición",
+          "más alta (retraída) hasta su posición más baja (extensión máxima). Define la fuerza",
+          "de impacto y la capacidad de penetración de la máquina.",
+          "Stroke Corto (2.0 mm - 2.8 mm):",
+          "Comportamiento: La aguja se mueve en un trayecto corto. Golpea con menor",
+          "fuerza pero a una velocidad percibida más suave.",
+          "Aplicaciones principales:",
+          "Sombras extremadamente suaves y degradados en Grey Wash.",
+          "Micro-realismo y detalles ultra finos.",
+          "Micropigmentación o maquillaje permanente (PMU).",
+          "Ventajas y Limitaciones: Causa muy poco trauma en la piel, pero no tiene suficiente",
+          "fuerza para mover agrupaciones grandes de agujas ni para saturar color denso.",
+          "Stroke Medio / Estándar (3.2 mm - 3.7 mm):",
+          "Comportamiento: Equilibrado. Ofrece un balance óptimo entre fuerza de impacto,",
+          "velocidad y penetración.",
+          "Aplicaciones principales:",
+          "Máquinas \"All-Rounder\" (todo en uno).",
+          "Líneas finas y medias (3RL a 9RL).",
+          "Sombras en Whip Shading, Black and Grey y transiciones de color.",
+          "Ventajas: Es el rango más versátil, ideal para artistas que realizan estilos variados",
+          "sin cambiar de máquina.",
+          "Stroke Largo (4.0 mm - 4.5 mm o más):",
+          "Comportamiento: La aguja recorre una distancia amplia antes de impactar la piel,",
+          "acumulando más inercia y fuerza de golpe.",
+          "Aplicaciones principales:",
+          "Trazado de líneas gruesas (Bold Lines) de 11RL a 18RL.",
+          "Color Packing (relleno de color sólido y denso).",
+          "Blackwork pesado y grandes agrupaciones Magnum (RM/M1 de gran tamaño).",
+          "Pieles duras o zonas anatómicas gruesas (espalda, muslos).",
+          "Ventajas y Limitaciones: Introduce pigmento de forma muy rápida y sólida, pero",
+          "requiere un control preciso de la velocidad de la mano para no traumatizar la piel."
+        ]
+      },
+      {
+        "title": "Calibración De Voltaje Y Frecuencia (Hz)",
+        "body": [
+          "El voltaje regula la velocidad a la que el motor o las bobinas completan el ciclo",
+          "de movimiento de la aguja. Se mide en Voltios (V) en fuentes de poder tradicionales",
+          "o en Hercios (Hz - ciclos por segundo) en máquinas modernas.",
+          "Regla General de Sincronización:",
+          "Voltaje adecuado = La aguja bate a la velocidad justa para la velocidad con la",
+          "que se desplaza la mano sobre la piel.",
+          "Si la mano va rápida y el voltaje es bajo: Se generan líneas discontinuas y",
+          "sombras heterogéneas.",
+          "Si la mano va lenta y el voltaje es alto: Se genera traumatismo innecesario,",
+          "sangrado excesivo y riesgo de Blowout.",
+          "Tabla de Orientación de Voltaje por Técnica (Valores Promedio para Máquinas Rotativas):",
+          "┌────────────────────────┬──────────────────────┬────────────────────────────┐",
+          "│ TÉCNICA / TIPO AGUJA   │ VOLTAJE ESTIMADO     │ FRECUENCIA (Hz) RECOMENDADA│",
+          "├────────────────────────┼──────────────────────┼────────────────────────────┤",
+          "│ Linework Fino (3-5RL)  │ 6.0 V - 7.0 V        │ 80 Hz - 95 Hz              │",
+          "│ Linework Grueso (9-14RL)│ 7.5 V - 9.0 V       │ 100 Hz - 120 Hz            │",
+          "│ Shading Suave / Péndulo│ 5.5 V - 6.8 V        │ 70 Hz - 85 Hz              │",
+          "│ Whip / Pepper Shading  │ 6.5 V - 8.0 V        │ 85 Hz - 105 Hz             │",
+          "│ Color Packing (Magnum) │ 7.0 V - 8.5 V        │ 90 Hz - 110 Hz             │",
+          "│ Dotwork / Puntillismo  │ 4.5 V - 5.8 V        │ 50 Hz - 70 Hz              │",
+          "└────────────────────────┴──────────────────────┴────────────────────────────┘",
+          "(Nota: Los voltajes pueden variar según la marca del motor, el stroke y la dureza",
+          "de la membrana del cartucho)."
+        ]
+      },
+      {
+        "title": "Relación Entre Stroke, Voltaje Y Resistencia De La Membrana",
+        "body": [
+          "Resistencia del Cartucho:",
+          "Los cartuchos modernos tienen una membrana de silicona o muelle de goma que frena",
+          "el motor. A mayor tensión de la membrana, mayor esfuerzo requiere el motor, por lo",
+          "que puede ser necesario subir entre 0.5V y 1.0V para compensar la carga.",
+          "Compensación por Stroke:",
+          "A un stroke más largo (ej. 4.2 mm), el motor realiza mayor recorrido físico.",
+          "Para mantener la misma frecuencia de golpe (Hz) que un stroke corto, se requerirá",
+          "ligeramente más voltaje.",
+          "Ajuste según el Tipo de Piel:",
+          "Piel fina / sensible: Reducir voltaje 0.5V - 1.0V y mantener movimientos fluidos.",
+          "Piel gruesa / firme: Aumentar voltaje ligeramente o cambiar a un stroke más largo",
+          "para garantizar la penetración limpia del pigmento.",
+          "\"El voltaje controla el ritmo, el stroke define la fuerza y tu mano guía",
+          "la precisión del arte.\""
+        ]
+      }
+    ]
+  },
+  {
+    "id": "historia_moderna_profesional",
+    "category": "Historia",
+    "title": "Historia moderna y profesionalización del tatuaje",
+    "summary": "Del tatuaje tradicional al estudio moderno: evolución de herramientas, estilos, cultura y profesionalización.",
+    "sections": [
+      {
+        "title": "Del oficio marginal al arte profesional",
+        "body": [
+          "Durante buena parte de la historia occidental el tatuaje estuvo asociado a determinados grupos sociales, militares, marineros, prisiones y subculturas. Con el tiempo, esa percepción cambió y el tatuaje pasó a ocupar un espacio importante dentro del arte corporal contemporáneo.",
+          "La profesionalización no depende únicamente de la calidad del dibujo: también implica higiene, documentación, organización del estudio, comunicación con el cliente, consistencia técnica y responsabilidad profesional."
+        ]
+      },
+      {
+        "title": "Evolución de las herramientas",
+        "body": [
+          "La transición desde instrumentos manuales y máquinas de bobinas hacia sistemas rotativos y cartuchos modificó la ergonomía y amplió las posibilidades técnicas.",
+          "La evolución tecnológica ha permitido disponer de fuentes más precisas, máquinas regulables, cartuchos desechables y herramientas digitales de diseño, aunque la tecnología no sustituye el conocimiento anatómico, artístico y técnico."
+        ]
+      },
+      {
+        "title": "El tatuaje como disciplina artística",
+        "body": [
+          "Actualmente conviven estilos tradicionales, neotradicionales, blackwork, lettering, ornamental, japonés, realismo, ilustrativo, geométrico, minimalista y numerosas fusiones.",
+          "La especialización permite al artista desarrollar un lenguaje visual propio, pero una base sólida en dibujo, composición, valores, teoría del color y anatomía sigue siendo fundamental."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anatomia_epidermis_dermis",
+    "category": "Anatomía",
+    "title": "Epidermis, dermis e hipodermis: estudio aplicado",
+    "summary": "Estudio de las capas cutáneas y de su importancia para comprender el comportamiento del tatuaje.",
+    "sections": [
+      {
+        "title": "Epidermis",
+        "body": [
+          "La epidermis constituye la barrera externa de la piel y está formada por varias capas celulares. Su renovación continua explica por qué el aspecto superficial de un tatuaje cambia durante la cicatrización.",
+          "La epidermis no debe considerarse el destino permanente del pigmento: el resultado final depende de cómo se comporta el pigmento en relación con los tejidos y de la respuesta biológica de la piel."
+        ]
+      },
+      {
+        "title": "Dermis",
+        "body": [
+          "La dermis se encuentra debajo de la epidermis y contiene fibras de colágeno y elastina, vasos sanguíneos, nervios y otras estructuras.",
+          "Desde una perspectiva educativa, comprender la dermis ayuda a entender por qué una aplicación insuficiente puede perder definición y por qué un trauma excesivo puede producir complicaciones."
+        ]
+      },
+      {
+        "title": "Hipodermis y tejido subcutáneo",
+        "body": [
+          "La hipodermis contiene cantidades variables de tejido adiposo y se encuentra por debajo de la dermis.",
+          "Las diferencias anatómicas entre personas y zonas corporales hacen que la respuesta de la piel no sea idéntica en todos los casos. El profesional debe conocer sus límites y evitar asumir que una configuración funciona igual en cualquier cuerpo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anatomia_zonas_corporales",
+    "category": "Anatomía",
+    "title": "Anatomía de las zonas corporales y adaptación del diseño",
+    "summary": "Cómo estudiar curvas, articulaciones, movimiento, elasticidad y proporciones antes de colocar un diseño.",
+    "sections": [
+      {
+        "title": "Curvas y superficies",
+        "body": [
+          "Una superficie corporal plana en reposo puede deformarse considerablemente con el movimiento. La lectura del diseño debe realizarse tanto en la posición natural como durante movimientos relevantes.",
+          "Las curvas del hombro, antebrazo, pantorrilla, muslo, pecho y espalda pueden utilizarse para dirigir visualmente una composición."
+        ]
+      },
+      {
+        "title": "Articulaciones y movimiento",
+        "body": [
+          "Codos, rodillas, muñecas, tobillos y otras articulaciones alteran la geometría aparente de un diseño.",
+          "Un diseño profesional considera dónde se encuentra la articulación, cómo se pliega y qué elementos deben conservar prioridad visual cuando el miembro cambia de posición."
+        ]
+      },
+      {
+        "title": "Planificación",
+        "body": [
+          "Antes de colocar un diseño conviene analizar escala, orientación, lectura a distancia, relación con tatuajes existentes y posibilidad de futuras ampliaciones.",
+          "La adaptación anatómica debe buscar que el diseño parezca pertenecer al cuerpo y no simplemente estar colocado encima de él."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_bobinas",
+    "category": "Máquinas",
+    "title": "Máquinas de bobinas: arquitectura, ajuste y comportamiento",
+    "summary": "Introducción técnica a las máquinas de bobinas, sus componentes y diferencias de comportamiento.",
+    "sections": [
+      {
+        "title": "Componentes principales",
+        "body": [
+          "Una máquina de bobinas tradicional integra bobinas electromagnéticas, barra de armadura, resortes, tornillo de contacto, chasis y elementos de conexión.",
+          "La interacción entre estos componentes determina el comportamiento de la máquina y explica por qué pequeñas modificaciones pueden cambiar la respuesta."
+        ]
+      },
+      {
+        "title": "Liner y shader",
+        "body": [
+          "Históricamente se han configurado máquinas de bobinas con comportamientos orientados a líneas o sombreado.",
+          "Estas denominaciones describen una orientación funcional, no una regla absoluta: la configuración final depende de la construcción de la máquina, el ajuste y la técnica del artista."
+        ]
+      },
+      {
+        "title": "Mantenimiento",
+        "body": [
+          "La inspección periódica, limpieza apropiada y revisión de conexiones son importantes para conservar un funcionamiento consistente.",
+          "Cualquier mantenimiento eléctrico o modificación interna debe realizarse siguiendo las especificaciones del fabricante y, cuando corresponda, por personal cualificado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_rotativas",
+    "category": "Máquinas",
+    "title": "Máquinas rotativas y sistemas Pen",
+    "summary": "Principios de funcionamiento, ventajas, limitaciones y criterios para comprender máquinas rotativas modernas.",
+    "sections": [
+      {
+        "title": "Conversión del movimiento",
+        "body": [
+          "En una máquina rotativa, un motor transforma el movimiento de rotación en un movimiento alternativo que desplaza el mecanismo de la aguja.",
+          "La geometría del mecanismo influye en el recorrido, respuesta, vibración y sensación del golpe."
+        ]
+      },
+      {
+        "title": "Formato Pen",
+        "body": [
+          "El formato Pen busca una ergonomía similar a la de un instrumento de escritura y suele utilizar sistemas de cartucho.",
+          "Su forma puede facilitar sesiones prolongadas, aunque la ergonomía real depende del peso, diámetro, distribución de masa y forma de agarre."
+        ]
+      },
+      {
+        "title": "Ventajas y límites",
+        "body": [
+          "Las rotativas modernas pueden ofrecer funcionamiento relativamente silencioso, mantenimiento sencillo y versatilidad.",
+          "No existe una máquina universalmente superior: la elección debe considerar estilo, configuración de agujas, ergonomía, experiencia del artista y especificaciones reales del fabricante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_stroke_give_hit",
+    "category": "Máquinas",
+    "title": "Stroke, give, hit y respuesta dinámica",
+    "summary": "Conceptos esenciales para interpretar la sensación mecánica de una máquina sin reducirla a un único parámetro.",
+    "sections": [
+      {
+        "title": "Stroke",
+        "body": [
+          "El stroke describe la longitud del recorrido mecánico del mecanismo de la aguja. No debe interpretarse por sí solo como una medida directa de profundidad de tatuaje.",
+          "Un stroke diferente modifica la dinámica de la máquina y puede resultar más apropiado para determinadas técnicas, pero la interacción con velocidad, aguja, membrana y mano es decisiva."
+        ]
+      },
+      {
+        "title": "Give",
+        "body": [
+          "El give describe cuánto puede ceder el mecanismo bajo carga durante el contacto con la piel. Una máquina con mayor elasticidad puede sentirse diferente a otra de respuesta más rígida.",
+          "La terminología y el comportamiento exacto varían entre fabricantes, por lo que deben consultarse las especificaciones del modelo."
+        ]
+      },
+      {
+        "title": "Hit y sensación de impacto",
+        "body": [
+          "Hit se utiliza habitualmente para describir la contundencia con la que el mecanismo entrega el movimiento.",
+          "La sensación percibida no equivale necesariamente a mayor calidad. Un golpe excesivamente agresivo puede aumentar el trauma, mientras que una respuesta insuficiente puede dificultar determinadas aplicaciones."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_calibracion",
+    "category": "Máquinas",
+    "title": "Calibración y lectura de parámetros de máquinas",
+    "summary": "Marco profesional para entender voltaje, frecuencia, carga, agujas y velocidad de mano.",
+    "sections": [
+      {
+        "title": "Voltaje no es profundidad",
+        "body": [
+          "El voltaje de una fuente no constituye por sí mismo una medida de profundidad de la aguja. La respuesta final depende de la máquina, motor, carga, stroke, configuración de aguja, cartucho, piel y velocidad de mano.",
+          "Por esta razón, las tablas de voltaje deben utilizarse únicamente como referencias de partida y nunca como valores universales."
+        ]
+      },
+      {
+        "title": "Frecuencia y respuesta",
+        "body": [
+          "La frecuencia expresa ciclos por segundo en sistemas que proporcionan esa lectura. En otros sistemas se observa únicamente el voltaje y el comportamiento mecánico.",
+          "El objetivo profesional es encontrar una respuesta consistente que permita trabajar con control y minimizar trauma innecesario."
+        ]
+      },
+      {
+        "title": "Método de ajuste",
+        "body": [
+          "Los ajustes deben hacerse de forma gradual, observando la respuesta de la máquina y siguiendo las recomendaciones del fabricante.",
+          "No conviene copiar un número de otra máquina esperando obtener el mismo resultado: dos equipos con el mismo voltaje pueden comportarse de manera distinta."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agujas_configuraciones",
+    "category": "Agujas",
+    "title": "Configuraciones de agujas: RL, RS, Magnum y Round Magnum",
+    "summary": "Guía de lectura de las principales configuraciones de agujas y sus aplicaciones generales.",
+    "sections": [
+      {
+        "title": "Round Liner",
+        "body": [
+          "Las RL agrupan agujas en una configuración circular orientada principalmente al trazado y determinados detalles.",
+          "El número de agujas modifica el grosor aparente, pero también influyen diámetro, taper, velocidad de mano y máquina."
+        ]
+      },
+      {
+        "title": "Round Shader",
+        "body": [
+          "Las RS presentan una agrupación más abierta que una RL y se utilizan habitualmente para determinadas sombras, rellenos pequeños y texturas.",
+          "La aplicación concreta depende del diseño y de la preferencia técnica del artista."
+        ]
+      },
+      {
+        "title": "Magnum y Round Magnum",
+        "body": [
+          "Las Magnum distribuyen agujas en filas y permiten cubrir superficies mayores con menos pasadas que configuraciones muy pequeñas.",
+          "Las Round Magnum presentan una curvatura que puede proporcionar una transición más suave en determinados trabajos. La elección depende de la técnica y del comportamiento del cartucho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agujas_diametro_taper",
+    "category": "Agujas",
+    "title": "Diámetro, taper y agrupación: lectura técnica",
+    "summary": "Variables que determinan la forma en que una aguja deposita pigmento y responde durante el trabajo.",
+    "sections": [
+      {
+        "title": "Diámetro",
+        "body": [
+          "El diámetro individual de las agujas influye en el flujo de pigmento y en la apariencia del depósito.",
+          "No debe evaluarse una aguja únicamente por el número de agujas: dos configuraciones con igual cantidad pueden comportarse de forma diferente debido al diámetro y taper."
+        ]
+      },
+      {
+        "title": "Taper",
+        "body": [
+          "El taper describe cómo se estrecha la punta de la aguja. Un taper más largo puede favorecer determinados trabajos de precisión, mientras que otros diseños priorizan una entrega diferente de pigmento.",
+          "La nomenclatura exacta puede variar entre fabricantes."
+        ]
+      },
+      {
+        "title": "Lectura de la nomenclatura",
+        "body": [
+          "La identificación de un cartucho puede incluir cantidad, configuración, diámetro y taper.",
+          "Aprender a interpretar estas variables permite seleccionar herramientas con mayor intención en lugar de depender exclusivamente de recomendaciones genéricas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_linework",
+    "category": "Técnicas",
+    "title": "Linework profesional: consistencia, curvas y control visual",
+    "summary": "Principios de trazado, preparación, ritmo y evaluación de líneas.",
+    "sections": [
+      {
+        "title": "Preparación del trazado",
+        "body": [
+          "Una línea limpia comienza antes de utilizar la máquina: el diseño debe estar claro, la postura debe ser estable y la piel debe poder visualizarse correctamente.",
+          "El objetivo es reducir correcciones y movimientos improvisados durante el trazado."
+        ]
+      },
+      {
+        "title": "Ritmo y consistencia",
+        "body": [
+          "La consistencia depende de la coordinación entre movimiento de la mano, respuesta de la máquina y configuración de la aguja.",
+          "En formación profesional se debe aprender a reconocer líneas demasiado superficiales, inconsistentes o excesivamente traumáticas sin convertir un número de voltaje en una receta universal."
+        ]
+      },
+      {
+        "title": "Curvas y líneas largas",
+        "body": [
+          "Las curvas requieren anticipación visual y una postura que permita realizar el movimiento de forma natural.",
+          "Para líneas largas es preferible planificar el recorrido y mantener referencias visuales en lugar de improvisar cambios bruscos de dirección."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_fine_line",
+    "category": "Técnicas",
+    "title": "Fine line y microdetalle",
+    "summary": "Principios artísticos y técnicos del trabajo de línea fina.",
+    "sections": [
+      {
+        "title": "Características",
+        "body": [
+          "El fine line se caracteriza por líneas visualmente delicadas, detalles pequeños y un uso controlado del espacio negativo.",
+          "La apariencia final depende tanto de la ejecución como de la escala del diseño y de la capacidad de conservar legibilidad durante la cicatrización."
+        ]
+      },
+      {
+        "title": "Diseño",
+        "body": [
+          "Los detalles deben guardar suficiente separación para evitar que se fusionen visualmente con el paso del tiempo.",
+          "Un diseño extremadamente pequeño no siempre puede reproducir todos los detalles de una referencia fotográfica. La simplificación es una herramienta profesional."
+        ]
+      },
+      {
+        "title": "Limitaciones",
+        "body": [
+          "La piel, la ubicación, la exposición al sol, el envejecimiento y el proceso de cicatrización influyen en la permanencia visual del detalle.",
+          "El artista debe comunicar expectativas realistas y evitar prometer que una línea conservará exactamente su aspecto inicial para siempre."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_bold_line",
+    "category": "Técnicas",
+    "title": "Bold line y construcción de líneas de alto peso visual",
+    "summary": "Uso artístico de líneas fuertes, jerarquía y lectura a distancia.",
+    "sections": [
+      {
+        "title": "Peso de línea",
+        "body": [
+          "Una línea gruesa puede funcionar como estructura principal, contorno, separación de masas o elemento de énfasis.",
+          "La variación de peso ayuda a crear jerarquía y profundidad incluso dentro de diseños monocromáticos."
+        ]
+      },
+      {
+        "title": "Legibilidad",
+        "body": [
+          "Los estilos de línea fuerte deben diseñarse pensando en la lectura a distancia y en el envejecimiento del tatuaje.",
+          "El espacio negativo entre elementos es tan importante como la línea que los delimita."
+        ]
+      },
+      {
+        "title": "Coherencia",
+        "body": [
+          "La selección de pesos debe ser consistente con el lenguaje visual del diseño.",
+          "Cambios de grosor sin intención pueden producir ruido visual y hacer que una composición parezca desorganizada."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_whip_pendulum",
+    "category": "Técnicas",
+    "title": "Whip shading y sombreado de transición",
+    "summary": "Comprensión visual del desvanecimiento, densidad y control de transiciones.",
+    "sections": [
+      {
+        "title": "Principio del desvanecimiento",
+        "body": [
+          "El whip shading utiliza una variación progresiva de densidad para crear una transición desde una zona más marcada hacia una zona visualmente abierta.",
+          "La calidad del degradado depende de la regularidad del patrón y de la capacidad de controlar la acumulación."
+        ]
+      },
+      {
+        "title": "Péndulo y barrido",
+        "body": [
+          "Los movimientos de barrido y péndulo pueden producir diferentes texturas y transiciones.",
+          "El artista debe estudiar el resultado sobre material de práctica y desarrollar control antes de aplicarlo a piel humana."
+        ]
+      },
+      {
+        "title": "Lectura del resultado",
+        "body": [
+          "Una transición profesional debe observarse desde la distancia de lectura del tatuaje, no solamente desde muy cerca.",
+          "El contraste general del diseño determina si una sombra realmente aporta volumen o simplemente añade textura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_blackwork",
+    "category": "Técnicas",
+    "title": "Blackwork, saturación y masas negras",
+    "summary": "Construcción de composiciones basadas en negro sólido, contraste y espacio negativo.",
+    "sections": [
+      {
+        "title": "Negro como elemento compositivo",
+        "body": [
+          "En blackwork el negro puede funcionar como estructura, sombra, fondo o protagonista visual.",
+          "Las masas negras deben planificarse junto al espacio negativo para evitar que la composición pierda respiración."
+        ]
+      },
+      {
+        "title": "Saturación",
+        "body": [
+          "Una saturación visual uniforme exige planificación de la superficie y consistencia técnica.",
+          "El objetivo no debe ser realizar más pasadas de las necesarias, sino conseguir el resultado con control y respetando la respuesta de la piel."
+        ]
+      },
+      {
+        "title": "Envejecimiento",
+        "body": [
+          "El contraste entre negro y piel puede cambiar con el tiempo. Diseños correctamente espaciados tienen mejores posibilidades de conservar una lectura clara.",
+          "La composición debe considerar cómo se relacionan las masas negras con futuros retoques y expansiones."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecnicas_realismo",
+    "category": "Técnicas",
+    "title": "Realismo en blanco y negro: valores, bordes y profundidad",
+    "summary": "Fundamentos visuales para construir volumen y semejanza mediante valores y bordes.",
+    "sections": [
+      {
+        "title": "Escala de valores",
+        "body": [
+          "El realismo depende de una relación convincente entre luces, medios tonos y sombras.",
+          "Una escala de valores bien organizada permite separar planos y construir profundidad sin depender exclusivamente del contorno."
+        ]
+      },
+      {
+        "title": "Bordes",
+        "body": [
+          "Los bordes duros llaman la atención y ayudan a definir estructuras. Los bordes suaves sugieren transiciones y profundidad.",
+          "La variedad de bordes evita que una imagen realista parezca plana o recortada."
+        ]
+      },
+      {
+        "title": "Referencia fotográfica",
+        "body": [
+          "Una buena referencia debe mostrar claramente iluminación, anatomía y proporciones.",
+          "El artista debe interpretar la referencia para el medio del tatuaje y no intentar copiar mecánicamente cada píxel de una fotografía."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teoria_color",
+    "category": "Color",
+    "title": "Teoría del color aplicada al tatuaje",
+    "summary": "Fundamentos de temperatura, contraste, armonía y mezcla visual.",
+    "sections": [
+      {
+        "title": "Color y temperatura",
+        "body": [
+          "Los colores cálidos y fríos pueden utilizarse para crear jerarquía y profundidad.",
+          "La temperatura relativa importa tanto como el color absoluto: un tono puede parecer más cálido o frío dependiendo de los colores que lo rodean."
+        ]
+      },
+      {
+        "title": "Contraste",
+        "body": [
+          "El contraste de valor determina gran parte de la legibilidad de una composición.",
+          "También existen contrastes de temperatura, saturación y complementarios, que pueden utilizarse para dirigir la atención."
+        ]
+      },
+      {
+        "title": "Planificación",
+        "body": [
+          "Un diseño a color debe considerar cómo interactúan los pigmentos y cómo puede cambiar su apariencia durante la cicatrización y el envejecimiento.",
+          "La teoría del color ayuda a tomar decisiones, pero la selección final debe respetar las características reales de los pigmentos utilizados."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_composicion",
+    "category": "Diseño",
+    "title": "Composición profesional para tatuaje",
+    "summary": "Jerarquía, equilibrio, ritmo, contraste, espacio negativo y flujo visual.",
+    "sections": [
+      {
+        "title": "Jerarquía visual",
+        "body": [
+          "La jerarquía determina qué elemento se percibe primero, cuál funciona como soporte y cuáles actúan como detalles secundarios.",
+          "Tamaño, contraste, posición, dirección y densidad pueden modificar la jerarquía."
+        ]
+      },
+      {
+        "title": "Equilibrio y ritmo",
+        "body": [
+          "Una composición equilibrada no necesita simetría perfecta. El peso visual puede distribuirse de forma dinámica.",
+          "La repetición de formas, líneas o texturas crea ritmo y cohesión."
+        ]
+      },
+      {
+        "title": "Espacio negativo",
+        "body": [
+          "El espacio negativo no es espacio perdido: permite separar formas, mejorar la lectura y proporcionar zonas de descanso visual.",
+          "En tatuajes de larga duración, conservar espacios suficientes entre elementos puede ayudar a mantener su definición."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_stencil",
+    "category": "Diseño",
+    "title": "Stencil, transferencia y preparación del diseño",
+    "summary": "Principios de preparación visual, escala, orientación y comprobación antes del trabajo.",
+    "sections": [
+      {
+        "title": "Preparación",
+        "body": [
+          "El stencil debe representar las partes esenciales del diseño y mantener una jerarquía clara.",
+          "No todo detalle de una ilustración necesita convertirse en una línea de stencil: algunas decisiones se realizan durante la ejecución artística."
+        ]
+      },
+      {
+        "title": "Escala y orientación",
+        "body": [
+          "La escala debe permitir que los elementos importantes tengan suficiente espacio.",
+          "La orientación debe comprobarse con el cliente en una posición natural y teniendo en cuenta cómo se verá el diseño durante el movimiento."
+        ]
+      },
+      {
+        "title": "Comprobación",
+        "body": [
+          "Antes de comenzar, conviene revisar simetría cuando corresponda, alineación, ubicación, relación con tatuajes existentes y lectura general.",
+          "La comunicación con el cliente es parte de la preparación técnica y ayuda a evitar cambios inesperados durante la sesión."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "higiene_bioseguridad",
+    "category": "Higiene",
+    "title": "Bioseguridad y prevención de contaminación cruzada",
+    "summary": "Principios fundamentales de protección del cliente y del profesional frente a riesgos biológicos.",
+    "sections": [
+      {
+        "title": "Principio de barrera",
+        "body": [
+          "El objetivo de las barreras es evitar que superficies, herramientas y equipos se conviertan en vehículos de contaminación.",
+          "Los materiales de un solo uso deben gestionarse como tales y no deben reutilizarse cuando el fabricante indique que son desechables."
+        ]
+      },
+      {
+        "title": "Campo de trabajo",
+        "body": [
+          "La organización debe diferenciar claramente materiales limpios de elementos potencialmente contaminados.",
+          "Los procedimientos exactos de limpieza, desinfección, esterilización y gestión de residuos deben seguir las normas sanitarias locales y las instrucciones de los productos utilizados."
+        ]
+      },
+      {
+        "title": "Protección profesional",
+        "body": [
+          "El artista debe aplicar prácticas de prevención de exposición a sangre y fluidos corporales.",
+          "La formación específica en patógenos transmitidos por la sangre, primeros auxilios y normativa local es una parte importante de la práctica profesional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "higiene_limpieza_desinfeccion",
+    "category": "Higiene",
+    "title": "Limpieza, desinfección y esterilización: conceptos",
+    "summary": "Diferencias fundamentales entre procesos de higiene y su importancia en un entorno profesional.",
+    "sections": [
+      {
+        "title": "Limpieza",
+        "body": [
+          "La limpieza consiste en retirar suciedad, materia orgánica y residuos de una superficie. Es un paso fundamental antes de determinados procesos posteriores.",
+          "Una superficie visualmente limpia no significa necesariamente que esté desinfectada o esterilizada."
+        ]
+      },
+      {
+        "title": "Desinfección",
+        "body": [
+          "La desinfección busca reducir o eliminar determinados microorganismos en superficies mediante productos y procedimientos específicos.",
+          "El producto debe utilizarse según etiqueta, concentración, tiempo de contacto y compatibilidad con la superficie."
+        ]
+      },
+      {
+        "title": "Esterilización",
+        "body": [
+          "La esterilización es un proceso destinado a eliminar todas las formas de vida microbiana y requiere equipos, controles y procedimientos adecuados.",
+          "Los instrumentos reutilizables que requieran esterilización deben gestionarse conforme a normativa sanitaria y procedimientos profesionales."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "higiene_residuos",
+    "category": "Higiene",
+    "title": "Gestión de residuos y organización del estudio",
+    "summary": "Principios para separar, contener y gestionar materiales contaminados y residuos generados.",
+    "sections": [
+      {
+        "title": "Clasificación",
+        "body": [
+          "Los residuos generados durante el tatuaje no deben tratarse todos de la misma manera. Los materiales potencialmente contaminados requieren gestión específica.",
+          "Los objetos punzocortantes deben depositarse en recipientes diseñados para evitar pinchazos accidentales."
+        ]
+      },
+      {
+        "title": "Flujo de trabajo",
+        "body": [
+          "Una distribución ordenada reduce desplazamientos innecesarios y ayuda a mantener separadas las áreas limpias y contaminadas.",
+          "La preparación previa del material permite concentrarse en el trabajo sin manipular innecesariamente elementos durante el procedimiento."
+        ]
+      },
+      {
+        "title": "Normativa",
+        "body": [
+          "Los requisitos para residuos biológicos, punzocortantes y productos químicos pueden variar según la jurisdicción.",
+          "El profesional debe conocer y cumplir la normativa sanitaria y ambiental aplicable al lugar donde trabaja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cicatrizacion_fases",
+    "category": "Cicatrización",
+    "title": "Cicatrización del tatuaje: fases y cambios esperables",
+    "summary": "Introducción al proceso biológico de reparación de la piel después del tatuaje.",
+    "sections": [
+      {
+        "title": "Respuesta inicial",
+        "body": [
+          "Después del tatuaje, la piel inicia una respuesta inflamatoria y de reparación. Pueden aparecer enrojecimiento, sensibilidad y cambios temporales de textura.",
+          "La intensidad y duración de estos cambios varían según persona, zona, tamaño y otros factores."
+        ]
+      },
+      {
+        "title": "Descamación y reorganización",
+        "body": [
+          "Durante la recuperación puede aparecer descamación o picor. El aspecto superficial puede cambiar antes de estabilizarse.",
+          "La piel continúa remodelándose después de que desaparecen los signos más evidentes de la fase inicial."
+        ]
+      },
+      {
+        "title": "Resultado estabilizado",
+        "body": [
+          "El aspecto final debe evaluarse una vez que la piel se haya recuperado por completo.",
+          "Una apariencia temporalmente apagada o diferente durante la recuperación no significa necesariamente que el tatuaje haya perdido su calidad."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aftercare_profesional",
+    "category": "Cicatrización",
+    "title": "Cuidados posteriores y comunicación con el cliente",
+    "summary": "Principios generales para explicar el cuidado del tatuaje sin sustituir indicaciones médicas.",
+    "sections": [
+      {
+        "title": "Instrucciones claras",
+        "body": [
+          "Las indicaciones posteriores deben ser sencillas, coherentes y adaptadas al método de curación recomendado por el profesional y a las instrucciones del producto utilizado.",
+          "El cliente debe entender qué cambios son habituales y qué comportamientos pueden irritar innecesariamente la zona."
+        ]
+      },
+      {
+        "title": "Evitar complicaciones",
+        "body": [
+          "La higiene adecuada, evitar manipular o arrancar piel en recuperación y proteger el tatuaje de factores irritantes forman parte de una recuperación responsable.",
+          "No deben recomendarse productos o tratamientos basándose únicamente en experiencias personales cuando existan contraindicaciones o instrucciones sanitarias diferentes."
+        ]
+      },
+      {
+        "title": "Señales de alarma",
+        "body": [
+          "Dolor que empeora de forma marcada, enrojecimiento que se expande, calor intenso, secreción preocupante, fiebre u otros signos importantes requieren valoración sanitaria.",
+          "El tatuador no debe diagnosticar infecciones. Ante dudas, debe recomendar al cliente consultar a un profesional de salud."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ergonomia_tatuador",
+    "category": "Profesional",
+    "title": "Ergonomía y conservación física del tatuador",
+    "summary": "Postura, apoyo, organización y hábitos para reducir fatiga durante sesiones prolongadas.",
+    "sections": [
+      {
+        "title": "Postura",
+        "body": [
+          "La postura debe permitir mantener estabilidad sin generar tensión constante en cuello, hombros, espalda o muñeca.",
+          "La altura de la camilla y la posición del cliente influyen directamente en la ergonomía."
+        ]
+      },
+      {
+        "title": "Agarre y presión",
+        "body": [
+          "Un agarre excesivamente rígido puede aumentar la fatiga y reducir la precisión fina.",
+          "La estabilidad debe conseguirse mediante postura y apoyos adecuados, no únicamente apretando la máquina."
+        ]
+      },
+      {
+        "title": "Sesiones largas",
+        "body": [
+          "Las pausas, cambios de postura y organización eficiente del puesto ayudan a reducir la carga acumulada.",
+          "El dolor persistente o síntomas físicos deben tomarse en serio y, cuando corresponda, ser evaluados por un profesional sanitario."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fotografia_portafolio",
+    "category": "Profesional",
+    "title": "Fotografía del tatuaje y construcción de portafolio",
+    "summary": "Cómo presentar profesionalmente el trabajo terminado y documentar resultados.",
+    "sections": [
+      {
+        "title": "Iluminación",
+        "body": [
+          "Una iluminación uniforme permite mostrar mejor líneas, valores y color sin crear reflejos o sombras que distorsionen la imagen.",
+          "La consistencia entre fotografías facilita que el portafolio tenga una identidad profesional."
+        ]
+      },
+      {
+        "title": "Encuadre",
+        "body": [
+          "El encuadre debe mostrar suficiente contexto anatómico para comprender la escala, pero mantener el tatuaje como protagonista.",
+          "Evitar filtros que alteren significativamente el color ayuda a presentar el resultado con honestidad."
+        ]
+      },
+      {
+        "title": "Portafolio",
+        "body": [
+          "Un portafolio profesional debe priorizar calidad sobre cantidad.",
+          "Es preferible mostrar trabajos completamente cicatrizados cuando sea posible y diferenciar claramente fotografías recientes de resultados curados."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "consulta_cliente",
+    "category": "Profesional",
+    "title": "Consulta, diseño y comunicación con el cliente",
+    "summary": "Proceso profesional para comprender objetivos, expectativas y límites antes de una sesión.",
+    "sections": [
+      {
+        "title": "Brief del diseño",
+        "body": [
+          "La consulta debe aclarar tema, estilo, tamaño aproximado, ubicación, referencias, preferencias de color y expectativas.",
+          "También es importante identificar qué aspectos son imprescindibles para el cliente y cuáles pueden interpretarse artísticamente."
+        ]
+      },
+      {
+        "title": "Expectativas realistas",
+        "body": [
+          "El tatuaje es un medio sobre piel viva y cambia con la cicatrización y el tiempo. El profesional debe explicar las limitaciones del medio.",
+          "No es recomendable prometer que una imagen quedará idéntica a una fotografía de referencia en cualquier tamaño o zona."
+        ]
+      },
+      {
+        "title": "Consentimiento y documentación",
+        "body": [
+          "La documentación, consentimiento informado y requisitos de edad o salud deben ajustarse a las leyes y normas del lugar de trabajo.",
+          "La privacidad del cliente también forma parte de una práctica profesional responsable."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glosario_basico",
+    "category": "Glosario",
+    "title": "Glosario profesional del tatuaje",
+    "summary": "Diccionario inicial de términos técnicos utilizados en el tatuaje.",
+    "sections": [
+      {
+        "title": "Términos de máquina",
+        "body": [
+          "Stroke: recorrido mecánico de la aguja.",
+          "Give: capacidad de ceder del mecanismo bajo carga.",
+          "Hit: término usado para describir la contundencia del impacto.",
+          "Rotary: sistema basado en un motor rotativo.",
+          "Coil: máquina electromagnética de bobinas."
+        ]
+      },
+      {
+        "title": "Términos de agujas",
+        "body": [
+          "RL: Round Liner.",
+          "RS: Round Shader.",
+          "M1: Magnum de configuración recta.",
+          "RM/CM: Round Magnum o Curved Magnum según la nomenclatura del fabricante.",
+          "Taper: longitud o geometría del estrechamiento de la punta."
+        ]
+      },
+      {
+        "title": "Términos artísticos",
+        "body": [
+          "Linework: trabajo basado principalmente en líneas.",
+          "Blackwork: estilo o enfoque basado en masas y elementos negros.",
+          "Dotwork: construcción visual mediante puntos.",
+          "Grey Wash: gama de grises obtenida mediante diferentes concentraciones o mezclas de pigmento.",
+          "Negative Space: espacio de piel sin pigmento utilizado como elemento compositivo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan_estudio_tatuador",
+    "category": "Formación",
+    "title": "Ruta de aprendizaje para convertirse en tatuador profesional",
+    "summary": "Plan progresivo de estudio para construir fundamentos antes de trabajar sobre piel humana.",
+    "sections": [
+      {
+        "title": "Etapa 1: dibujo",
+        "body": [
+          "Estudiar líneas, formas, perspectiva, proporción, anatomía, valores y composición.",
+          "Practicar diariamente en papel o medios digitales permite desarrollar coordinación sin asumir los riesgos asociados al trabajo sobre piel."
+        ]
+      },
+      {
+        "title": "Etapa 2: diseño aplicado",
+        "body": [
+          "Aprender a convertir referencias en diseños tatuables, simplificar detalles y adaptar composiciones a superficies curvas.",
+          "Estudiar diferentes estilos ayuda a comprender qué recursos visuales son esenciales en cada lenguaje."
+        ]
+      },
+      {
+        "title": "Etapa 3: teoría técnica",
+        "body": [
+          "Comprender máquinas, agujas, cartuchos, pigmentos, higiene, bioseguridad, ergonomía y cicatrización.",
+          "La formación práctica debe realizarse con supervisión profesional y respetando las exigencias sanitarias de la jurisdicción correspondiente."
+        ]
+      },
+      {
+        "title": "Etapa 4: práctica profesional",
+        "body": [
+          "La transición hacia piel humana debe realizarse únicamente cuando exista preparación suficiente, formación adecuada y un entorno profesional seguro.",
+          "El objetivo no es aprender mediante ensayo y error sobre clientes, sino reducir progresivamente la incertidumbre mediante educación, práctica controlada y supervisión."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_anatomia_aplicada",
+    "category": "Diseño",
+    "title": "Diseño y anatomía aplicada al tatuaje",
+    "summary": "Principios para diseñar sobre un cuerpo tridimensional respetando volumen, movimiento, proporción, flujo y lectura visual.",
+    "sections": [
+      {
+        "title": "El cuerpo como superficie de diseño",
+        "body": [
+          "Un tatuaje no se coloca sobre una hoja plana: se integra en una superficie tridimensional que tiene curvas, cambios de plano, articulaciones, músculos, tendones y movimiento. Por eso un diseño que funciona perfectamente en una pantalla puede perder proporción, dirección o legibilidad cuando se adapta al cuerpo.",
+          "El primer principio consiste en pensar simultáneamente en la imagen que se ve de frente y en la forma que adopta alrededor del cuerpo. La composición debe funcionar desde las posiciones habituales en las que será observada y no solamente desde una fotografía frontal.",
+          "Antes de decidir tamaño y orientación conviene identificar la zona, sus límites anatómicos, cambios de plano, movilidad y elementos que rodearán la pieza. El objetivo es que el diseño parezca pertenecer al cuerpo en lugar de parecer una imagen pegada sobre él."
+        ]
+      },
+      {
+        "title": "Proporción, escala y jerarquía",
+        "body": [
+          "La escala debe guardar relación con la zona corporal y con la cantidad de información del diseño. Una pieza muy detallada necesita espacio suficiente para conservar una lectura clara; reducir excesivamente una composición compleja puede provocar pérdida de jerarquía y separación insuficiente entre elementos.",
+          "La jerarquía visual determina qué se percibe primero, qué se reconoce después y qué elementos funcionan como apoyo. El punto focal suele recibir mayor contraste, definición o protagonismo, mientras que los elementos secundarios pueden tener menos peso visual.",
+          "El equilibrio no significa que ambos lados deban ser idénticos. Una composición asimétrica puede sentirse estable cuando tamaño, contraste, dirección y distribución de las formas compensan visualmente sus diferencias."
+        ]
+      },
+      {
+        "title": "Flujo anatómico y dirección",
+        "body": [
+          "El flujo es la relación entre las líneas, formas y direcciones del diseño y las líneas naturales del cuerpo. Una composición bien adaptada puede acompañar visualmente una extremidad, rodear una superficie o reforzar la sensación de longitud y movimiento.",
+          "Las articulaciones merecen especial atención porque modifican la lectura de una pieza cuando el cuerpo cambia de posición. El diseño debe considerarse en reposo y en movimiento, especialmente en codos, rodillas, hombros y muñecas.",
+          "En piezas grandes, los elementos principales pueden funcionar como una ruta visual que guía la mirada. Curvas, diagonales, repeticiones y espacios negativos ayudan a conectar diferentes partes sin convertir la composición en una acumulación de imágenes independientes."
+        ]
+      },
+      {
+        "title": "Volumen, perspectiva y superficies curvas",
+        "body": [
+          "Una superficie corporal curva transforma la percepción de proporciones y distancias. Al adaptar un diseño conviene considerar cómo las formas se comprimirán, extenderán o desaparecerán parcialmente al rodear el cuerpo.",
+          "La perspectiva debe utilizarse con intención. Elementos que representan profundidad, superposición o volumen necesitan conservar relaciones coherentes entre tamaños, bordes y espacios.",
+          "En diseños envolventes es útil pensar en zonas de transición: áreas donde un elemento principal cambia de plano y continúa visualmente hacia otra parte del cuerpo."
+        ]
+      },
+      {
+        "title": "Espacio negativo y respiración visual",
+        "body": [
+          "El espacio negativo es la zona sin pigmento que participa activamente en la composición. Puede separar elementos, aumentar el contraste, definir siluetas y permitir que el diseño conserve legibilidad.",
+          "Una composición saturada de información puede perder claridad cuando todos los elementos tienen el mismo peso. El espacio negativo crea pausas visuales y puede ser especialmente importante cuando la pieza debe integrarse con otros tatuajes.",
+          "El uso del espacio debe considerar también la evolución visual de la pieza con el tiempo. La separación entre detalles es parte de la planificación de una composición duradera."
+        ]
+      },
+      {
+        "title": "Adaptación por zonas corporales",
+        "body": [
+          "Cada región presenta retos diferentes. El brazo y la pierna ofrecen recorridos longitudinales; hombros y caderas tienen cambios de volumen; pecho y espalda permiten composiciones amplias; las superficies curvas requieren especial atención a la continuidad.",
+          "En una extremidad conviene analizar la dirección predominante de la anatomía y cómo se verá la pieza al girar el cuerpo. En superficies amplias, elementos secundarios pueden conectar zonas y crear continuidad.",
+          "La elección final de ubicación depende del diseño, del cuerpo concreto, del movimiento y del objetivo estético. No existe una orientación universal válida para todos los cuerpos."
+        ]
+      },
+      {
+        "title": "Errores frecuentes de diseño anatómico",
+        "body": [
+          "Ignorar la curvatura corporal, utilizar una orientación que contradice el flujo de la zona, concentrar demasiados detalles en un espacio pequeño, no reservar espacio negativo y diseñar únicamente para una fotografía frontal son errores habituales.",
+          "También puede fallar la relación entre elementos principales y secundarios. Cuando todos compiten por atención, la pieza pierde un punto focal claro. Otro problema es copiar exactamente una referencia sin adaptarla a las dimensiones y características de la persona.",
+          "El diseño profesional comienza antes del stencil: analiza cuerpo, composición, escala, orientación y lectura final. La adaptación anatómica es parte del diseño y no una corrección de último momento."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_composicion_profesional",
+    "category": "Diseño",
+    "title": "Composición profesional para tatuaje",
+    "summary": "Guía profunda sobre equilibrio, contraste, ritmo, repetición, focalización, continuidad y construcción de piezas pequeñas y grandes.",
+    "sections": [
+      {
+        "title": "Estructura de una composición",
+        "body": [
+          "Una composición organiza formas, espacios y contrastes para producir una lectura intencional. En tatuaje, esta organización debe considerar además el cuerpo, la orientación y la distancia desde la que normalmente se observará la pieza.",
+          "Una estructura sólida suele distinguir entre elemento principal, elementos secundarios y recursos de conexión. Esta jerarquía evita que cada parte compita con las demás.",
+          "El diseño puede analizarse primero como masas generales y posteriormente como detalles. Si la silueta y la distribución de valores no funcionan a distancia, añadir detalles rara vez soluciona el problema."
+        ]
+      },
+      {
+        "title": "Contraste y punto focal",
+        "body": [
+          "El contraste puede producirse mediante valores claros y oscuros, tamaño, densidad de detalle, bordes, dirección, color o diferencia entre formas. Su función es organizar la mirada.",
+          "El punto focal es el área que debe recibir mayor atención. Puede ser un rostro, símbolo, figura, palabra o elemento central del concepto.",
+          "Cuando todo tiene máximo contraste, nada tiene prioridad. Una composición madura distribuye la intensidad visual para que el espectador pueda recorrerla sin perder la referencia principal."
+        ]
+      },
+      {
+        "title": "Ritmo, repetición y continuidad",
+        "body": [
+          "La repetición de formas, líneas o motivos puede crear ritmo. El ritmo ayuda a unir componentes y a generar coherencia entre diferentes partes de una pieza.",
+          "La continuidad resulta especialmente útil en mangas y composiciones grandes. Los elementos de conexión no tienen que ser protagonistas; pueden actuar como puentes visuales entre motivos.",
+          "Variar ligeramente tamaño, orientación o separación evita una repetición mecánica y puede producir una sensación más orgánica."
+        ]
+      },
+      {
+        "title": "Composición de piezas grandes",
+        "body": [
+          "Las piezas grandes deben planificarse como un conjunto. El diseño debe considerar límites anatómicos, zonas de transición, elementos principales, conexiones y espacios negativos.",
+          "En una manga, cada tatuaje no debería funcionar únicamente como una pieza aislada: el conjunto necesita una relación visual entre hombro, brazo, codo y antebrazo. La planificación debe contemplar distintos ángulos.",
+          "En espalda, pecho o muslo, la amplitud permite establecer una jerarquía más compleja, pero también aumenta el riesgo de llenar la superficie sin estructura. Más elementos no significa necesariamente mejor composición."
+        ]
+      },
+      {
+        "title": "Evaluación antes de tatuar",
+        "body": [
+          "Una revisión previa debe comprobar silueta, proporción, orientación, punto focal, contraste, espacio negativo y adaptación al cuerpo. También conviene observar el diseño a tamaño aproximado y desde diferentes ángulos.",
+          "Las referencias deben utilizarse como material de estudio y punto de partida, respetando la autoría y evitando presentar como propio un diseño ajeno. La construcción de una pieza original requiere decisiones propias de composición y adaptación.",
+          "Una buena práctica educativa es comparar varias versiones de una misma composición y analizar qué cambia cuando se modifica escala, orientación, contraste o espacio negativo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anatomia_superficial_tatuaje",
+    "category": "Anatomía",
+    "title": "Anatomía superficial aplicada al tatuaje",
+    "summary": "Relación entre referencias anatómicas visibles, planos corporales, músculos, articulaciones y lectura del diseño.",
+    "sections": [
+      {
+        "title": "Anatomía de superficie",
+        "body": [
+          "La anatomía superficial estudia referencias que pueden observarse o localizarse en el cuerpo. Para el diseño resulta útil porque permite comprender volúmenes, líneas de movimiento y cambios de plano.",
+          "El objetivo para el diseñador no es memorizar cada estructura anatómica, sino comprender cómo las principales formas corporales influyen en la composición."
+        ]
+      },
+      {
+        "title": "Planos y volúmenes",
+        "body": [
+          "El cuerpo puede entenderse mediante superficies y volúmenes: zonas convexas, cóncavas, longitudinales, circulares y de transición. Un diseño que sigue esos cambios puede adquirir una lectura más natural.",
+          "Las referencias anatómicas deben utilizarse para diseñar y adaptar composiciones. No sustituyen la formación profesional necesaria para procedimientos que atraviesan la piel."
+        ]
+      },
+      {
+        "title": "Músculos y movimiento",
+        "body": [
+          "Los grupos musculares modifican el volumen visual de muchas regiones. En brazos, hombros, pecho, espalda y piernas, comprender las masas principales ayuda a orientar figuras y elementos decorativos.",
+          "El movimiento puede alterar la forma aparente de una composición. Una pieza destinada a una articulación debe evaluarse en diferentes posiciones antes de establecer su diseño definitivo."
+        ]
+      },
+      {
+        "title": "Articulaciones y zonas de transición",
+        "body": [
+          "Las articulaciones son puntos donde cambia la dirección del cuerpo. Codo, rodilla, hombro y otras zonas de movilidad pueden funcionar como lugares de transición o requerir una composición especialmente flexible.",
+          "Un diseño debe evitar depender de una única posición corporal. La evaluación desde diferentes ángulos ayuda a detectar problemas de lectura antes de aplicar el stencil."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_american_traditional",
+    "category": "Estilos",
+    "title": "American Traditional: historia, identidad y lenguaje visual",
+    "summary": "Estudio detallado del lenguaje visual del tatuaje tradicional estadounidense y sus características compositivas.",
+    "sections": [
+      {
+        "title": "Origen y evolución",
+        "body": [
+          "American Traditional, también llamado tradicional estadounidense, se consolidó durante el desarrollo del tatuaje occidental moderno, especialmente alrededor de contextos marítimos y militares de finales del siglo XIX y primeras décadas del XX.",
+          "El estilo no surgió de una única persona ni de una sola fuente. Recibió influencias de tradiciones anteriores y de intercambios culturales, que posteriormente fueron reinterpretados dentro de un lenguaje gráfico propio."
+        ]
+      },
+      {
+        "title": "Lenguaje visual",
+        "body": [
+          "Su identidad suele apoyarse en contornos fuertes, formas simplificadas, composiciones legibles y una relación clara entre negro, color y espacio de piel.",
+          "Los motivos históricos incluyen anclas, rosas, corazones, águilas, golondrinas, dagas, barcos y serpientes. Un motivo aislado no convierte automáticamente una pieza en tradicional: la construcción gráfica completa define el lenguaje."
+        ]
+      },
+      {
+        "title": "Color, sombreado y composición",
+        "body": [
+          "El color tradicional suele trabajar con una paleta limitada y de alto impacto. El negro cumple una función estructural importante, mientras que el sombreado y las áreas de piel sin pigmento ayudan a separar formas.",
+          "La composición prioriza la claridad. Las figuras suelen tener una silueta fuerte y una distribución de elementos que permite reconocer el diseño incluso a distancia."
+        ]
+      },
+      {
+        "title": "Diferencia frente al Neo-Traditional",
+        "body": [
+          "El Neo-Traditional parte de recursos tradicionales pero amplía el vocabulario con mayor variedad de color, detalle, volumen y composición.",
+          "La diferencia no se reduce al grosor de la línea: se encuentra en el conjunto de decisiones visuales, nivel de detalle, modelado, paleta y tratamiento de la composición."
+        ]
+      },
+      {
+        "title": "Errores frecuentes",
+        "body": [
+          "Confundir cualquier tatuaje de líneas gruesas y colores sólidos con American Traditional es un error. Otro es añadir tantos detalles, degradados o efectos que se pierde la economía visual característica.",
+          "Estudiar el estilo requiere analizar referencias históricas y contemporáneas e identificar por qué sus recursos funcionan juntos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_neo_traditional",
+    "category": "Estilos",
+    "title": "Neo-Traditional: evolución del lenguaje tradicional",
+    "summary": "Características, composición, color y recursos visuales del Neo-Traditional.",
+    "sections": [
+      {
+        "title": "Concepto",
+        "body": [
+          "El Neo-Traditional desarrolla elementos del lenguaje tradicional hacia composiciones con mayor variedad cromática, detalle y sensación de volumen. Mantiene con frecuencia contornos definidos y una fuerte presencia gráfica.",
+          "Su vocabulario puede incluir retratos estilizados, animales, flores, figuras mitológicas y elementos decorativos."
+        ]
+      },
+      {
+        "title": "Color y volumen",
+        "body": [
+          "El color puede ser más amplio y complejo que en el tradicional clásico. Los cambios de valor, superposición y contraste permiten crear mayor sensación de profundidad.",
+          "El volumen debe permanecer subordinado a la lectura general. Añadir modelado sin una estructura clara puede hacer que la pieza pierda fuerza gráfica."
+        ]
+      },
+      {
+        "title": "Composición",
+        "body": [
+          "El estilo permite composiciones ornamentales y marcos decorativos que integran el motivo principal con elementos secundarios. El cuerpo continúa siendo una parte importante de la composición."
+        ]
+      },
+      {
+        "title": "Comparación",
+        "body": [
+          "Frente al American Traditional, suele presentar mayor complejidad y variedad. Frente al realismo, conserva una interpretación gráfica más estilizada y no depende de reproducir exactamente la apariencia fotográfica."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_japones_irezumi",
+    "category": "Estilos",
+    "title": "Tatuaje japonés e Irezumi: composición, símbolos y flujo corporal",
+    "summary": "Estudio del lenguaje visual japonés, composición corporal, fondos, motivos y principios de lectura.",
+    "sections": [
+      {
+        "title": "Contexto histórico",
+        "body": [
+          "El tatuaje japonés tiene una historia compleja con distintas etapas, usos sociales y tradiciones. El término Irezumi se utiliza de diferentes maneras según el contexto y no debe tratarse como una etiqueta histórica completamente uniforme.",
+          "El tatuaje japonés moderno desarrolló un lenguaje reconocible de grandes composiciones, motivos tradicionales, fondos y adaptación al cuerpo."
+        ]
+      },
+      {
+        "title": "Motivos y narrativa visual",
+        "body": [
+          "Entre los motivos conocidos aparecen dragones, carpas, tigres, flores, figuras mitológicas y otros elementos procedentes de tradiciones visuales japonesas. El significado puede variar según época, contexto y combinación de símbolos.",
+          "Los motivos suelen relacionarse mediante fondos y elementos secundarios, creando una composición continua en lugar de una colección de imágenes aisladas."
+        ]
+      },
+      {
+        "title": "Flujo y composición corporal",
+        "body": [
+          "El flujo corporal es fundamental. Espalda, brazo, pierna, pecho y otras regiones pueden utilizar recorridos que acompañan las formas anatómicas.",
+          "El fondo puede actuar como elemento de conexión y ayudar a controlar el espacio negativo. La composición debe estudiarse como un sistema completo de figura, fondo, escala y movimiento."
+        ]
+      },
+      {
+        "title": "Estudio respetuoso",
+        "body": [
+          "Aprender este estilo requiere estudiar sus fuentes y contexto cultural, evitando reducirlo a una colección de símbolos decorativos. Las referencias históricas ayudan a comprender por qué determinados motivos y composiciones aparecen juntos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_blackwork",
+    "category": "Estilos",
+    "title": "Blackwork: lenguaje del negro, silueta y espacio negativo",
+    "summary": "Análisis del Blackwork, sus masas negras, contraste, geometría, ornamentación y composición.",
+    "sections": [
+      {
+        "title": "Identidad visual",
+        "body": [
+          "Blackwork utiliza el negro como recurso dominante. Puede abarcar desde siluetas y masas sólidas hasta diseños ornamentales, geométricos o figurativos.",
+          "El término describe un campo amplio, por lo que no existe una única apariencia de Blackwork. La característica común es el papel estructural que desempeña el negro."
+        ]
+      },
+      {
+        "title": "Masas negras y espacio negativo",
+        "body": [
+          "La relación entre negro y piel sin pigmento determina gran parte de la lectura. El espacio negativo puede definir figuras, separar masas y producir detalles mediante contraste.",
+          "El equilibrio entre áreas saturadas y áreas abiertas es esencial. Una composición puede resultar pesada si todas las masas negras se concentran sin una estructura que las conecte."
+        ]
+      },
+      {
+        "title": "Geometría y ornamentación",
+        "body": [
+          "Algunas variantes emplean geometría, simetría, patrones y ornamentación. En estos casos, la precisión visual y la repetición adquieren especial importancia.",
+          "En superficies curvas, patrones regulares necesitan adaptación visual para mantener una lectura coherente."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_black_grey",
+    "category": "Estilos",
+    "title": "Black & Grey: valores, contraste y volumen",
+    "summary": "Análisis del Black & Grey desde valores, profundidad y composición.",
+    "sections": [
+      {
+        "title": "Concepto",
+        "body": [
+          "Black & Grey utiliza una gama visual dominada por negro, grises y piel como parte del rango de valores. Puede abarcar realismo, retrato, piezas simbólicas, ornamental y otras aproximaciones.",
+          "El resultado depende de la organización de valores tanto como del detalle."
+        ]
+      },
+      {
+        "title": "Escala de valores",
+        "body": [
+          "Los valores permiten separar planos, construir profundidad y dirigir la mirada. El negro más intenso suele reservarse para estructuras que necesitan mayor peso, mientras que valores intermedios ayudan a modelar.",
+          "La piel funciona como un valor adicional y como espacio de respiración."
+        ]
+      },
+      {
+        "title": "Profundidad y contraste",
+        "body": [
+          "La sensación de profundidad surge de relaciones entre bordes, valores, tamaños y superposición. El contraste no tiene que ser máximo en toda la pieza.",
+          "En composiciones complejas, una jerarquía de contraste ayuda a mantener el punto focal y evitar una superficie visualmente plana."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_realismo",
+    "category": "Estilos",
+    "title": "Realismo en tatuaje: estructura, valores y referencia",
+    "summary": "Análisis del realismo, realismo en negro y gris y realismo a color desde la perspectiva del diseño.",
+    "sections": [
+      {
+        "title": "Qué significa realismo",
+        "body": [
+          "El realismo busca representar sujetos con una apariencia visual próxima a la observación o a una referencia fotográfica, aunque existen diferentes interpretaciones artísticas.",
+          "La fidelidad no depende solamente del detalle. Proporción, anatomía, perspectiva, valores, bordes y expresión son fundamentales."
+        ]
+      },
+      {
+        "title": "Construcción visual",
+        "body": [
+          "Un estudio realista comienza por las grandes masas y relaciones de proporción antes de los detalles pequeños. La estructura debe funcionar antes de añadir textura.",
+          "Los bordes pueden ser más definidos en áreas focales y más suaves en zonas secundarias."
+        ]
+      },
+      {
+        "title": "Black & Grey y color",
+        "body": [
+          "El realismo Black & Grey depende especialmente de la escala de valores y el contraste. El realismo a color añade relaciones entre temperatura, saturación, valores y colores vecinos.",
+          "En ambos casos, el diseño debe conservar una jerarquía clara y adaptarse a las dimensiones y características de la zona corporal."
+        ]
+      },
+      {
+        "title": "Microrealismo",
+        "body": [
+          "El microrealismo intenta concentrar una representación compleja en escala reducida. Esto plantea un desafío de legibilidad porque la cantidad de información disponible disminuye.",
+          "Es importante diferenciar una imagen detallada en pantalla de la información que puede conservarse cuando el diseño se reduce y se adapta al cuerpo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_fine_line",
+    "category": "Estilos",
+    "title": "Fine Line y Single Needle: precisión y economía visual",
+    "summary": "Características del Fine Line y Single Needle, composición delicada, detalle y limitaciones de escala.",
+    "sections": [
+      {
+        "title": "Identidad",
+        "body": [
+          "Fine Line describe un enfoque basado en líneas visualmente delicadas, mientras que Single Needle hace referencia a una configuración de aguja concreta. No son términos completamente equivalentes.",
+          "El enfoque puede aparecer en ilustración, ornamentación, lettering, botánica y otras categorías."
+        ]
+      },
+      {
+        "title": "Diseño y escala",
+        "body": [
+          "Los diseños delicados dependen mucho de la escala. Una composición excesivamente pequeña puede tener problemas de separación visual entre detalles.",
+          "La economía de elementos puede ser una ventaja: eliminar información innecesaria suele producir una imagen más clara que intentar conservar todos los detalles de una referencia."
+        ]
+      },
+      {
+        "title": "Errores de interpretación",
+        "body": [
+          "Confundir línea fina con ausencia de estructura es un error. Una pieza delicada todavía necesita proporción, jerarquía, composición y adaptación anatómica.",
+          "Las características visuales del estilo no deben confundirse con parámetros técnicos universales: no existe una única configuración válida para todas las máquinas, agujas, pieles o diseños."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_dotwork",
+    "category": "Estilos",
+    "title": "Dotwork y Stippling: construcción mediante puntos",
+    "summary": "Estudio del lenguaje de puntos, gradación visual, geometría, ornamental y espacio negativo.",
+    "sections": [
+      {
+        "title": "Principio visual",
+        "body": [
+          "Dotwork construye formas y valores mediante puntos o agrupaciones de puntos. La densidad puede crear transiciones, textura y diferencias de valor.",
+          "Stippling es un concepto relacionado con el uso de puntos para representar textura o valores; las etiquetas pueden variar según el contexto."
+        ]
+      },
+      {
+        "title": "Densidad y valores",
+        "body": [
+          "Una concentración mayor de puntos produce una percepción visual más oscura, mientras que una distribución más abierta genera valores más ligeros.",
+          "El espacio negativo tiene un papel importante porque separa agrupaciones y mantiene claridad."
+        ]
+      },
+      {
+        "title": "Aplicaciones",
+        "body": [
+          "Puede utilizarse en geometría, mandalas, ornamentación, ilustración, sombreado y combinaciones con linework.",
+          "En composiciones complejas, los puntos pueden funcionar como textura secundaria o como lenguaje dominante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_new_school",
+    "category": "Estilos",
+    "title": "New School: exageración, color y lenguaje gráfico",
+    "summary": "Características del New School, formas exageradas, volumen, color y composición dinámica.",
+    "sections": [
+      {
+        "title": "Identidad visual",
+        "body": [
+          "New School se caracteriza por una interpretación gráfica expresiva, formas exageradas, colores intensos y una estética que puede incorporar influencias de ilustración, cómic y cultura visual contemporánea.",
+          "Las proporciones pueden alterarse deliberadamente para aumentar expresividad o impacto."
+        ]
+      },
+      {
+        "title": "Volumen y color",
+        "body": [
+          "El color suele tener un papel protagonista. Los contrastes entre tonos, valores y contornos ayudan a construir profundidad y energía visual.",
+          "El volumen puede ser estilizado en lugar de estrictamente realista."
+        ]
+      },
+      {
+        "title": "Composición",
+        "body": [
+          "Las composiciones pueden utilizar poses dinámicas, perspectivas exageradas y elementos secundarios que refuerzan el movimiento.",
+          "El reto consiste en controlar la exageración para que la pieza siga siendo legible y no pierda su punto focal."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_watercolor",
+    "category": "Estilos",
+    "title": "Watercolor: color, bordes y sensación pictórica",
+    "summary": "Estudio del enfoque Watercolor y de sus recursos visuales de color y apariencia pictórica.",
+    "sections": [
+      {
+        "title": "Concepto",
+        "body": [
+          "Watercolor busca evocar recursos visuales asociados con la acuarela: transiciones de color, bordes variables, manchas y sensación de espontaneidad.",
+          "En tatuaje, el resultado no es una acuarela física. Es una interpretación gráfica de ese lenguaje sobre piel."
+        ]
+      },
+      {
+        "title": "Color y composición",
+        "body": [
+          "El diseño puede utilizar áreas de color como elementos compositivos principales o como extensiones de una línea o figura.",
+          "El control del contraste sigue siendo importante. Una apariencia suave no significa ausencia de estructura."
+        ]
+      },
+      {
+        "title": "Relación con otros estilos",
+        "body": [
+          "Puede combinarse con linework, ilustración o elementos gráficos. La combinación debe tener una lógica visual para que el color y la línea no parezcan pertenecer a piezas diferentes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_ornamental_geometrico",
+    "category": "Estilos",
+    "title": "Ornamental y geométrico: simetría, patrones y precisión visual",
+    "summary": "Principios de ornamentación, geometría, repetición, simetría y adaptación de patrones al cuerpo.",
+    "sections": [
+      {
+        "title": "Lenguaje ornamental",
+        "body": [
+          "El tatuaje ornamental utiliza patrones, formas decorativas, simetrías y composiciones inspiradas en diferentes tradiciones visuales. El término abarca numerosas variantes.",
+          "Una pieza ornamental puede ser estrictamente geométrica o combinar geometría con elementos orgánicos."
+        ]
+      },
+      {
+        "title": "Simetría y repetición",
+        "body": [
+          "La simetría puede generar estabilidad y orden, mientras que la asimetría controlada permite introducir movimiento. La repetición establece ritmo y continuidad.",
+          "En superficies curvas, un patrón matemáticamente regular puede necesitar adaptación visual para parecer equilibrado sobre el cuerpo."
+        ]
+      },
+      {
+        "title": "Adaptación corporal",
+        "body": [
+          "El diseño debe considerar eje corporal, puntos de referencia y cambios de plano. En composiciones centradas, pequeñas desviaciones pueden hacerse más visibles, por lo que la planificación adquiere especial importancia."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_chicano",
+    "category": "Estilos",
+    "title": "Chicano: historia visual, lettering y lenguaje de identidad",
+    "summary": "Contexto y características visuales del estilo Chicano, con énfasis en negro y gris, iconografía y lettering.",
+    "sections": [
+      {
+        "title": "Contexto cultural",
+        "body": [
+          "El tatuaje Chicano se desarrolló en comunidades mexicano-americanas y está relacionado con una historia social, artística y cultural específica. Su estudio requiere reconocer ese contexto y evitar reducirlo a una simple estética.",
+          "El lenguaje visual se desarrolló a través de distintas generaciones de artistas y medios gráficos."
+        ]
+      },
+      {
+        "title": "Recursos visuales",
+        "body": [
+          "Son frecuentes el negro y gris, lettering, retratos, iconografía religiosa o cultural, rosas, calaveras, manos y otros motivos, aunque ninguna lista define por sí sola el estilo.",
+          "El tratamiento de letras y retratos requiere especial atención a proporción, composición y legibilidad."
+        ]
+      },
+      {
+        "title": "Lettering",
+        "body": [
+          "El lettering puede funcionar como elemento principal o parte de una composición mayor. Tipografía, espaciado, jerarquía y adaptación a la superficie son determinantes.",
+          "Al estudiar este estilo es importante diferenciar la influencia cultural de la simple imitación de motivos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_tribal_pacifico",
+    "category": "Estilos",
+    "title": "Tatuajes tribales y tradiciones del Pacífico: estudio responsable",
+    "summary": "Introducción comparativa a tradiciones de tatuaje del Pacífico y a la importancia del contexto cultural.",
+    "sections": [
+      {
+        "title": "No existe un único estilo tribal",
+        "body": [
+          "La palabra tribal agrupa de manera demasiado amplia tradiciones distintas. Los sistemas de tatuaje del Pacífico pertenecen a culturas diferentes y poseen historias, símbolos y reglas propias.",
+          "Un estudio serio debe identificar la tradición concreta en lugar de tratar todos los patrones como un lenguaje intercambiable."
+        ]
+      },
+      {
+        "title": "Polinesia, Samoa y otras tradiciones",
+        "body": [
+          "Las tradiciones polinesias incluyen múltiples culturas y sistemas visuales. Samoa posee una tradición de tatuaje particularmente reconocida, mientras que otras comunidades del Pacífico desarrollaron sus propios repertorios.",
+          "Los patrones pueden relacionarse con identidad, genealogía, estatus, comunidad y otros significados según la tradición."
+        ]
+      },
+      {
+        "title": "Uso contemporáneo responsable",
+        "body": [
+          "Cuando se estudian estos estilos para diseño, es importante investigar la cultura y el contexto específico. Copiar símbolos o composiciones sin comprender su significado puede ser culturalmente inapropiado.",
+          "ARTattoo Academy debe presentar estas tradiciones como sistemas culturales reales, no como un catálogo genérico de decoración."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_lettering",
+    "category": "Estilos",
+    "title": "Lettering en tatuaje: tipografía, composición y legibilidad",
+    "summary": "Principios de construcción de letras y palabras para tatuaje, desde elección tipográfica hasta composición corporal.",
+    "sections": [
+      {
+        "title": "Tipografía y personalidad",
+        "body": [
+          "El lettering puede utilizar estilos tipográficos muy diferentes: script, serif, sans serif, blackletter, manuscrito, experimental y otros. La elección debe corresponder al mensaje y la composición.",
+          "Una tipografía no se evalúa únicamente por su belleza individual. Debe funcionar en el tamaño, orientación y superficie previstos."
+        ]
+      },
+      {
+        "title": "Espaciado y composición",
+        "body": [
+          "El espacio entre letras, palabras y líneas influye directamente en la legibilidad. La composición debe considerar márgenes, alineación y jerarquía.",
+          "En superficies curvas, la distribución debe adaptarse al recorrido corporal para evitar una apariencia visualmente desorganizada."
+        ]
+      },
+      {
+        "title": "Errores frecuentes",
+        "body": [
+          "Usar demasiadas fuentes en una sola pieza, comprimir excesivamente las letras o ignorar la escala puede perjudicar la lectura. También es importante comprobar cuidadosamente ortografía, fechas, nombres y caracteres antes de realizar una pieza."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_biomecanico",
+    "category": "Estilos",
+    "title": "Biomecánico y biomech: estructuras, volumen e ilusión",
+    "summary": "Lenguaje visual biomecánico, integración con anatomía, profundidad y estructuras mecánicas u orgánicas.",
+    "sections": [
+      {
+        "title": "Concepto",
+        "body": [
+          "El biomecánico explora la ilusión de estructuras mecánicas, orgánicas o híbridas integradas con el cuerpo. Puede utilizar tubos, placas, cables, engranajes, tejidos y formas anatómicas reinterpretadas.",
+          "El objetivo visual suele ser crear la impresión de que existe una estructura bajo o dentro de la superficie corporal."
+        ]
+      },
+      {
+        "title": "Volumen y profundidad",
+        "body": [
+          "El efecto depende de relaciones de valores, perspectiva, superposición, bordes y dirección. Las formas deben mantener coherencia tridimensional.",
+          "La anatomía proporciona referencias para que la composición parezca integrada con el cuerpo en lugar de flotar sobre él."
+        ]
+      },
+      {
+        "title": "Composición corporal",
+        "body": [
+          "Las piezas biomecánicas suelen beneficiarse de recorridos que siguen músculos y articulaciones. El diseño debe planificarse como una estructura continua cuando ocupa una zona extensa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilo_surrealista_abstracto",
+    "category": "Estilos",
+    "title": "Surrealismo y tatuaje abstracto: concepto y libertad compositiva",
+    "summary": "Principios de composición para imágenes surrealistas, abstractas y conceptuales.",
+    "sections": [
+      {
+        "title": "Surrealismo",
+        "body": [
+          "El surrealismo puede combinar elementos reconocibles de manera inesperada, alterar escalas, perspectivas y relaciones espaciales y crear escenas con lógica onírica o simbólica.",
+          "La fuerza de una composición surrealista depende de que las decisiones visuales tengan intención, aunque el resultado desafíe la lógica cotidiana."
+        ]
+      },
+      {
+        "title": "Abstracción",
+        "body": [
+          "El tatuaje abstracto puede priorizar líneas, manchas, formas, textura, ritmo y color sobre la representación literal de objetos.",
+          "La ausencia de una figura realista no elimina la necesidad de composición: equilibrio, contraste, dirección y espacio negativo siguen siendo fundamentales."
+        ]
+      },
+      {
+        "title": "Diseño conceptual",
+        "body": [
+          "Antes de dibujar conviene definir la idea central. Un concepto fuerte puede orientar las decisiones de forma, escala, contraste y ubicación.",
+          "Las piezas abstractas y surrealistas se benefician de bocetos alternativos porque pequeñas modificaciones pueden cambiar por completo la lectura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilos_comparativa",
+    "category": "Estilos",
+    "title": "Cómo distinguir los principales estilos de tatuaje",
+    "summary": "Método comparativo para identificar estilos mediante línea, valores, color, composición, iconografía y tratamiento de la forma.",
+    "sections": [
+      {
+        "title": "No identificar por un solo elemento",
+        "body": [
+          "Un estilo no debería clasificarse únicamente por una característica. Una línea gruesa puede aparecer en diferentes lenguajes; el negro y gris puede pertenecer a realismo, Chicano, ornamental u otros enfoques.",
+          "La identificación correcta observa el conjunto: línea, simplificación o realismo, valores, color, composición, motivos y tratamiento del espacio."
+        ]
+      },
+      {
+        "title": "Matriz de análisis",
+        "body": [
+          "Una referencia puede analizarse en seis dimensiones: línea, color, valores, forma, composición y temática. Después se compara con ejemplos históricos y contemporáneos.",
+          "Este método ayuda a distinguir estilos cercanos y reconocer piezas híbridas que combinan recursos de varias tradiciones."
+        ]
+      },
+      {
+        "title": "Estilos híbridos",
+        "body": [
+          "El tatuaje contemporáneo permite mezclas entre lenguajes. Un artista puede combinar linework con ornamental, realismo con elementos gráficos o recursos tradicionales con tratamientos modernos.",
+          "Una mezcla coherente necesita una jerarquía clara. Si los recursos visuales entran en conflicto, la pieza puede perder identidad y lectura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estilos_hibridos_tendencias",
+    "category": "Estilos",
+    "title": "Estilos híbridos y evolución contemporánea",
+    "summary": "Cómo nacen combinaciones de estilos y cómo analizar tendencias sin perder fundamentos.",
+    "sections": [
+      {
+        "title": "Hibridación",
+        "body": [
+          "Los estilos de tatuaje no son categorías cerradas. Los artistas desarrollan lenguajes propios combinando técnicas, referencias y decisiones de diseño.",
+          "Para crear una mezcla coherente conviene identificar qué elemento dominará y cuáles funcionarán como recursos secundarios."
+        ]
+      },
+      {
+        "title": "Tendencias frente a fundamentos",
+        "body": [
+          "Las tendencias pueden cambiar rápidamente, mientras que composición, proporción, contraste, anatomía aplicada y legibilidad siguen siendo principios fundamentales.",
+          "ARTattoo Academy puede enseñar ambos niveles: reconocer tendencias contemporáneas y entender los fundamentos que permiten evaluar cualquier estilo."
+        ]
+      },
+      {
+        "title": "Análisis crítico",
+        "body": [
+          "Estudiar una tendencia no significa asumir que todo lo popular es técnicamente sólido. Conviene analizar por qué funciona visualmente, qué limitaciones tiene y cómo puede evolucionar.",
+          "El objetivo de una formación profesional es desarrollar criterio propio, no depender de etiquetas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_fundamentos",
+    "category": "Dibujo",
+    "title": "Fundamentos del dibujo para tatuadores",
+    "summary": "Bases visuales para construir diseños sólidos antes de trasladarlos a la piel.",
+    "sections": [
+      {
+        "title": "Objetivo",
+        "body": [
+          "Aprender a observar, simplificar y construir formas antes de preocuparse por el detalle.",
+          "Un tatuador necesita dibujar para resolver problemas visuales: proporción, silueta, volumen, contraste y adaptación al cuerpo."
+        ]
+      },
+      {
+        "title": "Forma y estructura",
+        "body": [
+          "Toda imagen puede analizarse mediante formas simples: círculos, cilindros, cajas, conos y planos.",
+          "Construir primero la estructura permite corregir proporciones antes de invertir tiempo en detalles."
+        ]
+      },
+      {
+        "title": "Proceso recomendado",
+        "body": [
+          "Observa la referencia, identifica la silueta, construye volúmenes, establece luces y sombras y finalmente añade detalles.",
+          "En tatuaje conviene pensar también qué información debe sobrevivir cuando el diseño sea reducido a tinta y piel."
+        ]
+      },
+      {
+        "title": "Errores frecuentes",
+        "body": [
+          "Empezar por ojos, texturas o detalles sin haber resuelto la estructura produce dibujos atractivos en pequeño pero débiles como tatuajes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_linea_control",
+    "category": "Dibujo",
+    "title": "Línea, pulso y control visual",
+    "summary": "Estudio de la línea como herramienta de estructura, ritmo y personalidad gráfica.",
+    "sections": [
+      {
+        "title": "La línea como lenguaje",
+        "body": [
+          "La línea puede describir contorno, separación de planos, textura, movimiento o jerarquía.",
+          "No todas las líneas necesitan el mismo peso visual; variar su importancia ayuda a organizar la lectura."
+        ]
+      },
+      {
+        "title": "Ejercicios",
+        "body": [
+          "Practica líneas rectas, curvas, círculos, elipses y cambios de dirección sin buscar velocidad extrema.",
+          "El objetivo es desarrollar consistencia y capacidad de corregir el trazo mediante planificación, no depender de una sola pasada perfecta."
+        ]
+      },
+      {
+        "title": "Aplicación al diseño",
+        "body": [
+          "Antes de tatuar, identifica cuáles son las líneas indispensables y cuáles pueden eliminarse.",
+          "Un diseño limpio suele necesitar menos líneas de las que contiene una fotografía."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_luz_valor",
+    "category": "Dibujo",
+    "title": "Luz, sombra y escala de valores",
+    "summary": "Cómo interpretar la luz y convertir información fotográfica en valores útiles para tatuaje.",
+    "sections": [
+      {
+        "title": "Valor",
+        "body": [
+          "El valor describe qué tan claro u oscuro percibimos una zona. Puede estudiarse sin color.",
+          "Separar luces, medios tonos y sombras permite construir volumen y profundidad."
+        ]
+      },
+      {
+        "title": "Fuente de luz",
+        "body": [
+          "Define una dirección de luz coherente antes de sombrear. Una fuente estable evita sombras contradictorias.",
+          "Las sombras proyectadas y las sombras de forma cumplen funciones distintas y deben analizarse por separado."
+        ]
+      },
+      {
+        "title": "Conversión a tatuaje",
+        "body": [
+          "Un diseño puede simplificarse a pocos grupos de valor para mejorar legibilidad.",
+          "En Black & Grey, el contraste debe organizarse con intención y no repartirse de forma uniforme."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_perspectiva",
+    "category": "Dibujo",
+    "title": "Perspectiva aplicada al diseño de tatuajes",
+    "summary": "Fundamentos de perspectiva para crear volumen y referencias visualmente coherentes.",
+    "sections": [
+      {
+        "title": "Conceptos",
+        "body": [
+          "La perspectiva organiza cómo cambian tamaño, orientación y separación de objetos según su posición espacial.",
+          "Líneas paralelas pueden converger visualmente hacia puntos de fuga cuando representan profundidad."
+        ]
+      },
+      {
+        "title": "Aplicación",
+        "body": [
+          "En composiciones realistas, edificios, armas, objetos y fondos necesitan una lógica espacial común.",
+          "Incluso un diseño estilizado se beneficia de una perspectiva consistente si pretende transmitir volumen."
+        ]
+      },
+      {
+        "title": "Error común",
+        "body": [
+          "Cambiar la perspectiva entre elementos hace que la composición parezca construida por piezas independientes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_anatomia_artistica",
+    "category": "Dibujo",
+    "title": "Anatomía artística para tatuadores",
+    "summary": "Comprensión visual de proporciones y estructuras corporales para diseñar figuras convincentes.",
+    "sections": [
+      {
+        "title": "Qué estudiar",
+        "body": [
+          "Estudia proporciones generales, masas musculares, articulaciones y movimiento como herramientas de observación artística.",
+          "No es necesario memorizar cada estructura anatómica para empezar; es más útil comprender grandes volúmenes y relaciones."
+        ]
+      },
+      {
+        "title": "Movimiento",
+        "body": [
+          "Dibuja primero la línea de acción y las masas principales antes de añadir anatomía superficial.",
+          "Una figura rígida puede resultar poco natural incluso cuando sus detalles anatómicos son correctos."
+        ]
+      },
+      {
+        "title": "Aplicación al tatuaje",
+        "body": [
+          "La anatomía artística ayuda a colocar rostros, animales, manos y figuras de manera creíble y a decidir cómo se deformará un diseño sobre una zona curva."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_rostros_manos_animales",
+    "category": "Dibujo",
+    "title": "Rostros, manos y animales: construcción práctica",
+    "summary": "Métodos de estudio para tres grupos de motivos especialmente exigentes.",
+    "sections": [
+      {
+        "title": "Rostros",
+        "body": [
+          "Construye cráneo, eje facial y planos antes de detallar ojos, nariz y boca.",
+          "Pequeñas variaciones de proporción pueden cambiar mucho la identidad de un retrato."
+        ]
+      },
+      {
+        "title": "Manos",
+        "body": [
+          "Piensa en la mano como una estructura de palma y bloques de dedos antes de dibujar uñas y pliegues.",
+          "La silueta y la posición de los dedos suelen ser más importantes que el detalle superficial."
+        ]
+      },
+      {
+        "title": "Animales",
+        "body": [
+          "Estudia esqueletos y masas musculares simplificadas para entender postura y movimiento.",
+          "La anatomía específica permite evitar símbolos genéricos que hacen que especies distintas parezcan iguales."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_simplificacion_referencias",
+    "category": "Dibujo",
+    "title": "Cómo simplificar fotografías y referencias",
+    "summary": "Proceso para convertir información compleja en un diseño claro y tatuable.",
+    "sections": [
+      {
+        "title": "Qué conservar",
+        "body": [
+          "Identifica la silueta, el gesto, los rasgos distintivos y las relaciones de luz que hacen reconocible al sujeto.",
+          "No todo detalle fotográfico tiene valor como información tatuable."
+        ]
+      },
+      {
+        "title": "Qué eliminar",
+        "body": [
+          "Texturas repetitivas, ruido visual y microdetalles pueden reducirse cuando no aportan a la lectura.",
+          "Simplificar no significa empobrecer: significa asignar prioridad."
+        ]
+      },
+      {
+        "title": "Método",
+        "body": [
+          "Haz una versión de silueta, una versión de líneas principales y una versión de valores.",
+          "Compara las tres y decide qué información es esencial para el tamaño y estilo finales."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dibujo_estilo_propio",
+    "category": "Dibujo",
+    "title": "Desarrollo de identidad artística",
+    "summary": "Cómo pasar de copiar referencias a construir un lenguaje visual propio.",
+    "sections": [
+      {
+        "title": "Influencias",
+        "body": [
+          "Estudiar artistas y estilos es parte del aprendizaje, pero una identidad madura combina referencias con decisiones personales.",
+          "Analiza qué recursos admiras: línea, composición, valores, color, textura o temática."
+        ]
+      },
+      {
+        "title": "Experimentación",
+        "body": [
+          "Crea varias versiones de un mismo motivo cambiando una sola variable cada vez.",
+          "Registrar resultados permite reconocer patrones de preferencia y fortalezas."
+        ]
+      },
+      {
+        "title": "Coherencia",
+        "body": [
+          "Un estilo propio no significa repetir siempre la misma imagen; significa que diferentes obras comparten una lógica visual reconocible."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_elementos_basicos",
+    "category": "Diseño",
+    "title": "Elementos fundamentales del diseño",
+    "summary": "Guía de línea, forma, espacio, textura, escala y valor como piezas del lenguaje visual.",
+    "sections": [
+      {
+        "title": "Elementos",
+        "body": [
+          "Línea, forma, espacio, textura, valor y color son recursos que pueden combinarse para construir una imagen.",
+          "El diseño mejora cuando cada elemento tiene una función identificable."
+        ]
+      },
+      {
+        "title": "Jerarquía",
+        "body": [
+          "No todos los elementos deben competir por atención. El punto focal recibe mayor peso y los elementos secundarios apoyan la lectura.",
+          "La jerarquía puede crearse mediante tamaño, contraste, detalle, aislamiento y posición."
+        ]
+      },
+      {
+        "title": "Aplicación",
+        "body": [
+          "Antes de añadir elementos a una composición, pregunta qué función cumplen y qué ocurriría si se eliminan."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_composicion_avanzada",
+    "category": "Diseño",
+    "title": "Composición avanzada y arquitectura visual",
+    "summary": "Método para construir composiciones complejas manteniendo claridad y equilibrio.",
+    "sections": [
+      {
+        "title": "Estructura",
+        "body": [
+          "Define primero un recorrido visual y después coloca los elementos alrededor de ese recorrido.",
+          "La composición puede organizarse mediante ejes, diagonales, curvas, simetrías o estructuras radiales."
+        ]
+      },
+      {
+        "title": "Peso visual",
+        "body": [
+          "El tamaño, contraste, densidad, detalle y posición influyen en el peso visual.",
+          "Un elemento pequeño de alto contraste puede competir con uno grande de bajo contraste."
+        ]
+      },
+      {
+        "title": "Espacio negativo",
+        "body": [
+          "La piel sin pigmento no es espacio desperdiciado: puede separar masas, crear respiración y mejorar la lectura a distancia."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_punto_focal",
+    "category": "Diseño",
+    "title": "Punto focal y dirección de la mirada",
+    "summary": "Cómo controlar dónde entra y cómo recorre el ojo una composición.",
+    "sections": [
+      {
+        "title": "Punto focal",
+        "body": [
+          "El foco es la zona que recibe prioridad visual. Puede establecerse mediante contraste, detalle, escala, aislamiento o dirección.",
+          "Una composición puede tener un foco principal y varios focos secundarios."
+        ]
+      },
+      {
+        "title": "Dirección",
+        "body": [
+          "Diagonales, curvas, miradas de personajes, líneas y formas repetidas pueden guiar la atención.",
+          "El recorrido debe conducir hacia información importante en vez de dispersarla."
+        ]
+      },
+      {
+        "title": "Tatuaje corporal",
+        "body": [
+          "La anatomía ofrece direcciones naturales: músculos, articulaciones y ejes corporales pueden utilizarse como parte de la composición."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_simetria_asimetria",
+    "category": "Diseño",
+    "title": "Simetría, asimetría y equilibrio",
+    "summary": "Cómo elegir entre estabilidad simétrica y tensión controlada.",
+    "sections": [
+      {
+        "title": "Simetría",
+        "body": [
+          "La simetría facilita sensación de orden y puede ser útil en mandalas, ornamentación y composiciones frontales.",
+          "Debe comprobarse visualmente sobre superficies curvas porque la geometría plana puede cambiar al adaptarse al cuerpo."
+        ]
+      },
+      {
+        "title": "Asimetría",
+        "body": [
+          "La asimetría puede crear dinamismo cuando pesos visuales diferentes se compensan mediante posición, contraste o tamaño.",
+          "No significa desorden: necesita equilibrio."
+        ]
+      },
+      {
+        "title": "Criterio",
+        "body": [
+          "Elige la estructura según el concepto, el estilo y la anatomía, no porque una regla sea universalmente mejor."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_escala_legibilidad",
+    "category": "Diseño",
+    "title": "Escala, distancia y legibilidad",
+    "summary": "Cómo evaluar si un diseño seguirá funcionando cuando esté sobre la piel.",
+    "sections": [
+      {
+        "title": "Escala",
+        "body": [
+          "El tamaño determina cuánto detalle puede mantenerse separado visualmente.",
+          "Cuanto más complejo es un diseño, mayor importancia adquiere una escala que permita distinguir sus componentes."
+        ]
+      },
+      {
+        "title": "Prueba de distancia",
+        "body": [
+          "Observa el diseño de cerca, a distancia media y reducido como miniatura.",
+          "Si todo se convierte en una masa confusa al alejarlo, revisa jerarquía, contraste y espacio negativo."
+        ]
+      },
+      {
+        "title": "Durabilidad visual",
+        "body": [
+          "Planificar separación y jerarquía ayuda a que el diseño conserve una lectura clara mientras evoluciona visualmente con el tiempo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_adaptacion_corporal",
+    "category": "Diseño",
+    "title": "Adaptación anatómica del diseño",
+    "summary": "Cómo transformar una composición plana en una pieza que dialogue con el cuerpo.",
+    "sections": [
+      {
+        "title": "Mapeo corporal",
+        "body": [
+          "Analiza curvas, articulaciones, movimiento y orientación antes de decidir la composición definitiva.",
+          "Una referencia rectangular rara vez debe trasladarse literalmente a una superficie curva."
+        ]
+      },
+      {
+        "title": "Flujo",
+        "body": [
+          "Elementos alargados pueden seguir ejes musculares; elementos circulares pueden aprovechar zonas con lectura radial.",
+          "Las articulaciones requieren especial atención porque cambian la lectura cuando el cuerpo se mueve."
+        ]
+      },
+      {
+        "title": "Prueba",
+        "body": [
+          "Visualiza el diseño en varias posiciones del cuerpo y revisa orientación, escala y continuidad."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diseno_conectores_background",
+    "category": "Diseño",
+    "title": "Conectores, fondos y continuidad",
+    "summary": "Cómo unir elementos separados sin sobrecargar una composición.",
+    "sections": [
+      {
+        "title": "Conectores",
+        "body": [
+          "Un conector puede ser ornamental, orgánico, geométrico, atmosférico o simplemente espacio negativo organizado.",
+          "Su función es crear continuidad, no llenar todos los huecos."
+        ]
+      },
+      {
+        "title": "Background",
+        "body": [
+          "El fondo establece profundidad y relación entre elementos principales y secundarios.",
+          "Debe apoyar la jerarquía; un fondo excesivamente detallado puede competir con el motivo principal."
+        ]
+      },
+      {
+        "title": "Mangas",
+        "body": [
+          "En una manga completa conviene planificar el conjunto antes de ejecutar piezas aisladas para evitar cortes visuales y acumulación accidental."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stencil_principios",
+    "category": "Stencil",
+    "title": "Stencil profesional: de referencia a plantilla",
+    "summary": "Principios para convertir un diseño terminado en información clara para transferencia.",
+    "sections": [
+      {
+        "title": "Función",
+        "body": [
+          "El stencil es una guía de colocación y ejecución; no siempre representa cada tono final del tatuaje.",
+          "Debe comunicar las líneas estructurales necesarias para mantener proporción y orientación."
+        ]
+      },
+      {
+        "title": "Jerarquía de líneas",
+        "body": [
+          "Distingue contornos principales, detalles secundarios y zonas que se resolverán mediante valores o textura.",
+          "Incluir todas las líneas de una fotografía puede producir una plantilla ilegible."
+        ]
+      },
+      {
+        "title": "Control",
+        "body": [
+          "Revisa orientación, escala, texto, simetría y relación con la anatomía antes de transferir."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stencil_realismo",
+    "category": "Stencil",
+    "title": "Stencil para realismo y Black & Grey",
+    "summary": "Cómo traducir referencias complejas a una guía útil sin convertirla en un dibujo imposible de leer.",
+    "sections": [
+      {
+        "title": "Estructura",
+        "body": [
+          "Marca contornos importantes, límites de planos y rasgos que determinan reconocimiento.",
+          "Las sombras no siempre necesitan dibujarse como líneas; pueden representarse como mapas de valor o indicaciones internas."
+        ]
+      },
+      {
+        "title": "Jerarquía",
+        "body": [
+          "El stencil debe preservar información suficiente para ubicar ojos, nariz, boca, anatomía, objetos y relaciones espaciales.",
+          "Demasiadas líneas pueden ocultar la estructura que realmente importa."
+        ]
+      },
+      {
+        "title": "Comprobación",
+        "body": [
+          "Evalúa el stencil en el tamaño real y sobre una representación de la zona corporal."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stencil_lettering_manga",
+    "category": "Stencil",
+    "title": "Stencil para lettering y mangas",
+    "summary": "Preparación de plantillas en composiciones donde orientación y continuidad son críticas.",
+    "sections": [
+      {
+        "title": "Lettering",
+        "body": [
+          "Comprueba ortografía, caracteres, espaciado, alineación y lectura desde la orientación natural del cuerpo.",
+          "El texto debe evaluarse a escala real antes de transferir."
+        ]
+      },
+      {
+        "title": "Mangas",
+        "body": [
+          "Planifica puntos de continuidad entre hombro, brazo, codo y antebrazo.",
+          "Los elementos importantes no deberían quedar accidentalmente interrumpidos por pliegues o articulaciones."
+        ]
+      },
+      {
+        "title": "Negativo",
+        "body": [
+          "El espacio sin líneas también forma parte de la plantilla porque define separación y respiración."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "color_rueda_relaciones",
+    "category": "Color",
+    "title": "Rueda cromática y relaciones de color",
+    "summary": "Base para seleccionar paletas coherentes en tatuaje.",
+    "sections": [
+      {
+        "title": "Fundamentos",
+        "body": [
+          "Los colores pueden estudiarse por matiz, saturación y valor.",
+          "Las relaciones cromáticas ayudan a predecir contraste y armonía antes de mezclar una paleta."
+        ]
+      },
+      {
+        "title": "Relaciones",
+        "body": [
+          "Complementarios generan contraste; análogos producen continuidad; triadas permiten variedad equilibrada.",
+          "Estas categorías son herramientas de diseño, no recetas obligatorias."
+        ]
+      },
+      {
+        "title": "Aplicación",
+        "body": [
+          "Define primero la función de cada color dentro de la composición: dominante, secundario o acento."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "color_temperatura_saturacion",
+    "category": "Color",
+    "title": "Temperatura, saturación y valor",
+    "summary": "Cómo controlar profundidad y jerarquía mediante propiedades del color.",
+    "sections": [
+      {
+        "title": "Temperatura",
+        "body": [
+          "Los colores pueden percibirse como cálidos o fríos y esa relación puede ayudar a separar planos.",
+          "La temperatura es relativa al contexto: un color puede parecer más cálido junto a uno muy frío."
+        ]
+      },
+      {
+        "title": "Saturación",
+        "body": [
+          "La saturación influye en intensidad visual. Una paleta completamente saturada puede perder jerarquía si todo compite.",
+          "Combinar zonas intensas con zonas moderadas permite reservar atención."
+        ]
+      },
+      {
+        "title": "Valor",
+        "body": [
+          "Dos colores distintos pueden tener valores similares y perder separación. Comprobar la composición en escala de grises ayuda a detectar este problema."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "color_paletas_tatuaje",
+    "category": "Color",
+    "title": "Construcción de paletas para tatuaje",
+    "summary": "Método para pasar de una idea cromática a una paleta organizada.",
+    "sections": [
+      {
+        "title": "Paleta limitada",
+        "body": [
+          "Reducir el número de colores puede producir unidad y facilitar jerarquía.",
+          "Una paleta limitada no significa falta de riqueza: los valores, temperaturas y mezclas amplían sus posibilidades."
+        ]
+      },
+      {
+        "title": "Paleta compleja",
+        "body": [
+          "Cuando se usan muchos colores, conviene establecer una jerarquía clara para evitar una composición visualmente ruidosa.",
+          "Un color de acento puede utilizarse en áreas estratégicas en lugar de distribuirlo uniformemente."
+        ]
+      },
+      {
+        "title": "Prueba",
+        "body": [
+          "Evalúa la paleta sobre el diseño final y considera cómo interactúa con el tono de piel y el espacio negativo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pigmentos_basicos",
+    "category": "Pigmentos",
+    "title": "Pigmentos: conceptos fundamentales",
+    "summary": "Introducción a pigmentos, vehículos, propiedades visuales y documentación.",
+    "sections": [
+      {
+        "title": "Qué estudiar",
+        "body": [
+          "Un pigmento aporta color mientras que la formulación completa del producto determina otras propiedades de aplicación y estabilidad.",
+          "El tatuador debe conocer la información proporcionada por el fabricante y evitar asumir que dos colores de nombres similares se comportan igual."
+        ]
+      },
+      {
+        "title": "Propiedades",
+        "body": [
+          "Opacidad, saturación, consistencia y capacidad de mezcla influyen en el resultado visual.",
+          "El comportamiento real puede depender también de la piel, técnica y proceso de cicatrización."
+        ]
+      },
+      {
+        "title": "Trazabilidad",
+        "body": [
+          "Conservar información de lote y producto según las normas y procedimientos aplicables facilita documentación y gestión profesional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pigmentos_mezcla_almacenamiento",
+    "category": "Pigmentos",
+    "title": "Mezcla, almacenamiento y trazabilidad",
+    "summary": "Buenas prácticas educativas para organizar pigmentos sin sustituir las instrucciones del fabricante.",
+    "sections": [
+      {
+        "title": "Mezcla",
+        "body": [
+          "Las mezclas deben hacerse con materiales y procedimientos apropiados para productos destinados a tatuaje.",
+          "No se debe improvisar una formulación ni asumir compatibilidad entre productos sin información fiable."
+        ]
+      },
+      {
+        "title": "Almacenamiento",
+        "body": [
+          "Respeta las condiciones de temperatura, luz, cierre y caducidad indicadas por el fabricante.",
+          "Un producto deteriorado, contaminado o fuera de especificación no debe utilizarse."
+        ]
+      },
+      {
+        "title": "Registro",
+        "body": [
+          "La trazabilidad puede incluir marca, nombre, lote y fecha según el sistema del estudio y requisitos locales."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agujas_configuraciones_avanzado",
+    "category": "Agujas",
+    "title": "Configuraciones de agujas: guía avanzada",
+    "summary": "Cómo comprender RL, RS, Magnum, Curved Magnum, Flat, Bugpin y otras configuraciones.",
+    "sections": [
+      {
+        "title": "Familias",
+        "body": [
+          "Round Liner y Round Shader tienen disposiciones diferentes y se utilizan con objetivos distintos.",
+          "Magnum, Curved Magnum y Flat ofrecen superficies de contacto diferentes para sombreado y relleno."
+        ]
+      },
+      {
+        "title": "Diámetro y taper",
+        "body": [
+          "El diámetro y la longitud del taper modifican la forma en que se presenta la agrupación y pueden influir en el flujo de trabajo.",
+          "No existe una configuración universalmente superior."
+        ]
+      },
+      {
+        "title": "Selección",
+        "body": [
+          "Relaciona configuración, diseño, escala, técnica y máquina. La elección debe validarse mediante práctica controlada y especificaciones del fabricante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agujas_bugpin_single",
+    "category": "Agujas",
+    "title": "Bugpin, Single Needle y configuraciones especializadas",
+    "summary": "Comprensión de configuraciones finas y de sus limitaciones.",
+    "sections": [
+      {
+        "title": "Bugpin",
+        "body": [
+          "Bugpin suele referirse a diámetros más pequeños dentro de determinadas familias de agujas. La nomenclatura puede variar entre fabricantes.",
+          "La elección debe basarse en especificaciones reales del producto, no solamente en el nombre comercial."
+        ]
+      },
+      {
+        "title": "Single Needle",
+        "body": [
+          "Single Needle describe una configuración de una sola aguja y puede utilizarse para líneas muy delicadas y detalles.",
+          "La delicadeza del resultado depende también de escala, técnica, máquina y características de la piel."
+        ]
+      },
+      {
+        "title": "Criterio profesional",
+        "body": [
+          "Evita convertir una configuración en una promesa de resultado. El tatuaje es un sistema donde varias variables interactúan."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_componentes",
+    "category": "Máquinas",
+    "title": "Anatomía de una máquina de tatuar",
+    "summary": "Estudio de motor, drive, cam, stroke, give, hit y elementos de transmisión.",
+    "sections": [
+      {
+        "title": "Sistema",
+        "body": [
+          "En una rotativa, el motor produce movimiento y un mecanismo lo transforma en movimiento alternativo de la aguja.",
+          "Cam y drive participan en la geometría del movimiento y pueden cambiar la sensación de trabajo."
+        ]
+      },
+      {
+        "title": "Stroke, give y hit",
+        "body": [
+          "Stroke describe el recorrido mecánico. Give se relaciona con la capacidad del sistema de ceder ante resistencia. Hit suele utilizarse para describir la sensación de impacto o respuesta.",
+          "Son conceptos relacionados pero no intercambiables."
+        ]
+      },
+      {
+        "title": "Ergonomía",
+        "body": [
+          "Peso, diámetro, equilibrio y vibración afectan fatiga y control durante sesiones prolongadas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_parametros_interaccion",
+    "category": "Máquinas",
+    "title": "Interacción entre stroke, voltaje, frecuencia y técnica",
+    "summary": "Marco conceptual para entender parámetros sin tratarlos como recetas universales.",
+    "sections": [
+      {
+        "title": "Variables",
+        "body": [
+          "Stroke, velocidad del motor, voltaje, configuración de aguja, give, hang y velocidad de mano interactúan.",
+          "Modificar una variable puede cambiar el comportamiento percibido de las demás."
+        ]
+      },
+      {
+        "title": "No hay receta universal",
+        "body": [
+          "Los rangos de voltaje o frecuencia dependen de máquina, motor, aguja, piel y técnica. Las especificaciones del fabricante y la experiencia controlada tienen prioridad.",
+          "Los valores incluidos en otros artículos de ARTattoo Academy deben interpretarse como referencias educativas, no como instrucciones universales."
+        ]
+      },
+      {
+        "title": "Observación",
+        "body": [
+          "Aprende a relacionar sonido, respuesta de la máquina, comportamiento del pigmento y resultado visual sin perseguir un número aislado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maquinas_mantenimiento_diagnostico",
+    "category": "Máquinas",
+    "title": "Mantenimiento y diagnóstico básico",
+    "summary": "Cómo organizar revisión, limpieza apropiada y detección de problemas.",
+    "sections": [
+      {
+        "title": "Mantenimiento",
+        "body": [
+          "Sigue siempre el procedimiento del fabricante para limpieza, lubricación y desmontaje.",
+          "La parte eléctrica o interna debe revisarse con procedimientos seguros y personal cualificado cuando corresponda."
+        ]
+      },
+      {
+        "title": "Síntomas",
+        "body": [
+          "Cambios de sonido, vibración, calentamiento, respuesta irregular o conexiones inestables pueden indicar un problema.",
+          "No conviene compensar una avería cambiando parámetros repetidamente."
+        ]
+      },
+      {
+        "title": "Registro",
+        "body": [
+          "Anotar mantenimiento y comportamiento ayuda a identificar patrones y mantener consistencia profesional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bioseguridad_manos_barreras",
+    "category": "Bioseguridad",
+    "title": "Higiene de manos, guantes y barreras",
+    "summary": "Principios de prevención de contaminación cruzada en el puesto de trabajo.",
+    "sections": [
+      {
+        "title": "Manos",
+        "body": [
+          "La higiene de manos es una barrera fundamental y debe realizarse siguiendo protocolos sanitarios aplicables.",
+          "Los guantes no sustituyen la higiene de manos."
+        ]
+      },
+      {
+        "title": "Guantes",
+        "body": [
+          "Selecciona y cambia guantes según el procedimiento y ante contaminación o cambio de tarea.",
+          "Evita tocar superficies limpias con guantes contaminados."
+        ]
+      },
+      {
+        "title": "Barreras",
+        "body": [
+          "Las superficies y elementos de contacto frecuente pueden protegerse con barreras apropiadas para reducir contaminación.",
+          "Las barreras no sustituyen limpieza y desinfección cuando estas son necesarias."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bioseguridad_limpieza_desinfeccion_esterilizacion",
+    "category": "Bioseguridad",
+    "title": "Limpieza, desinfección y esterilización",
+    "summary": "Diferencias fundamentales entre tres procesos que no deben confundirse.",
+    "sections": [
+      {
+        "title": "Limpieza",
+        "body": [
+          "La limpieza retira suciedad y materia orgánica. Es un paso fundamental antes de determinados procesos posteriores.",
+          "Un objeto que parece limpio no necesariamente está desinfectado o estéril."
+        ]
+      },
+      {
+        "title": "Desinfección",
+        "body": [
+          "La desinfección busca reducir o eliminar determinados microorganismos según el producto y procedimiento utilizados.",
+          "Debe respetarse el producto, concentración, tiempo de contacto y superficie indicados por el fabricante."
+        ]
+      },
+      {
+        "title": "Esterilización",
+        "body": [
+          "La esterilización pretende eliminar todas las formas de vida microbiana mediante un proceso validado.",
+          "Cuando se utiliza autoclave, deben seguirse procedimientos de operación, indicadores y controles exigidos por la normativa aplicable."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bioseguridad_residuos_incidentes",
+    "category": "Bioseguridad",
+    "title": "Residuos, punzantes y gestión de incidentes",
+    "summary": "Organización segura de materiales contaminados y respuesta ante fallos de bioseguridad.",
+    "sections": [
+      {
+        "title": "Punzantes",
+        "body": [
+          "Los objetos punzantes deben gestionarse en contenedores apropiados y conforme a la normativa local.",
+          "No se debe improvisar el descarte ni manipular innecesariamente materiales usados."
+        ]
+      },
+      {
+        "title": "Residuos",
+        "body": [
+          "Separa y gestiona residuos según sus características y las reglas de la jurisdicción.",
+          "El estudio debe tener procedimientos claros antes de comenzar una sesión."
+        ]
+      },
+      {
+        "title": "Incidente",
+        "body": [
+          "Ante una contaminación, exposición o accidente, sigue el protocolo del estudio y busca orientación sanitaria o profesional cuando corresponda.",
+          "ARTattoo Academy puede enseñar principios, pero no sustituye formación reglamentaria ni asesoramiento médico."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profesional_consulta_cliente",
+    "category": "Profesional",
+    "title": "Consulta profesional con el cliente",
+    "summary": "Cómo convertir una idea inicial en un proyecto de tatuaje claro y viable.",
+    "sections": [
+      {
+        "title": "Descubrimiento",
+        "body": [
+          "Pregunta por concepto, significado, estilo, tamaño, ubicación, orientación y referencias.",
+          "Escuchar antes de diseñar evita interpretar una idea de forma incorrecta."
+        ]
+      },
+      {
+        "title": "Expectativas",
+        "body": [
+          "Explica qué puede mejorarse, qué limitaciones existen y qué decisiones afectan el resultado.",
+          "La comunicación profesional incluye decir no cuando una petición compromete calidad, seguridad o viabilidad."
+        ]
+      },
+      {
+        "title": "Confirmación",
+        "body": [
+          "Antes de ejecutar, confirma diseño, ubicación, escala y elementos críticos según el proceso del estudio."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profesional_pricing_agenda",
+    "category": "Profesional",
+    "title": "Precios, citas y organización del estudio",
+    "summary": "Principios de gestión para convertir habilidad artística en práctica profesional sostenible.",
+    "sections": [
+      {
+        "title": "Presupuesto",
+        "body": [
+          "El precio puede considerar tiempo, complejidad, tamaño, ubicación, diseño y estructura del estudio.",
+          "No existe una tarifa universal: el artista debe establecer un sistema coherente con su mercado y experiencia."
+        ]
+      },
+      {
+        "title": "Agenda",
+        "body": [
+          "Separar tiempo para consulta, preparación, sesión, limpieza y documentación evita sobrecargar la jornada.",
+          "Registrar citas y cambios reduce errores administrativos."
+        ]
+      },
+      {
+        "title": "Políticas",
+        "body": [
+          "Las políticas de depósitos, cancelaciones, modificaciones y puntualidad deben comunicarse antes de confirmar la cita y respetar la normativa aplicable."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "profesional_portfolio_marca",
+    "category": "Profesional",
+    "title": "Portfolio, marca personal y reputación",
+    "summary": "Cómo presentar el trabajo artístico de manera consistente y profesional.",
+    "sections": [
+      {
+        "title": "Portfolio",
+        "body": [
+          "Muestra trabajos representativos, fotografías claras y, cuando sea posible, piezas curadas por calidad y coherencia.",
+          "Un portfolio fuerte comunica especialización mejor que acumular imágenes sin selección."
+        ]
+      },
+      {
+        "title": "Marca",
+        "body": [
+          "Nombre, identidad visual, tono de comunicación y estilo artístico deben reforzar una misma percepción.",
+          "La marca no sustituye la calidad del tatuaje; la hace más fácil de reconocer."
+        ]
+      },
+      {
+        "title": "Reputación",
+        "body": [
+          "Puntualidad, higiene, comunicación, honestidad y consistencia influyen tanto como la estética en la reputación profesional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fotografia_tatuaje_profesional",
+    "category": "Fotografía",
+    "title": "Fotografía profesional del tatuaje",
+    "summary": "Técnicas de captura para mostrar textura, contraste y color sin distorsionar el trabajo.",
+    "sections": [
+      {
+        "title": "Luz",
+        "body": [
+          "La iluminación uniforme ayuda a revelar textura y valores sin crear reflejos excesivos.",
+          "La temperatura de color debe mantenerse consistente para evitar cambios artificiales en el tono."
+        ]
+      },
+      {
+        "title": "Perspectiva",
+        "body": [
+          "Mantén distancia y orientación adecuadas para reducir distorsión de lentes y deformación de anatomía.",
+          "En mangas y piezas grandes, varias fotografías coherentes pueden comunicar mejor el conjunto que una sola imagen forzada."
+        ]
+      },
+      {
+        "title": "Edición",
+        "body": [
+          "La edición debe corregir problemas de captura sin alterar engañosamente el tatuaje.",
+          "Evita filtros que cambien saturación, contraste o textura hasta hacer que la imagen deje de representar el trabajo real."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "psicologia_gestalt",
+    "category": "Psicología visual",
+    "title": "Gestalt aplicada al tatuaje",
+    "summary": "Principios de percepción para entender cómo el ojo agrupa y organiza una composición.",
+    "sections": [
+      {
+        "title": "Principios",
+        "body": [
+          "Proximidad, similitud, continuidad, cierre y figura-fondo explican diferentes formas de agrupación visual.",
+          "Estos principios pueden utilizarse para conectar elementos sin necesidad de añadir líneas o rellenos."
+        ]
+      },
+      {
+        "title": "Figura y fondo",
+        "body": [
+          "La separación entre motivo y espacio negativo determina qué formas aparecen como principales.",
+          "Un fondo demasiado activo puede competir con la figura."
+        ]
+      },
+      {
+        "title": "Aplicación",
+        "body": [
+          "Analizar una composición con principios perceptivos ayuda a detectar por qué una pieza se siente confusa incluso cuando todos sus elementos son técnicamente correctos."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "psicologia_atencion",
+    "category": "Psicología visual",
+    "title": "Atención, contraste y recorrido visual",
+    "summary": "Cómo dirigir la mirada mediante decisiones conscientes de diseño.",
+    "sections": [
+      {
+        "title": "Atención",
+        "body": [
+          "El ojo tiende a detectar diferencias fuertes de tamaño, contraste, aislamiento y detalle.",
+          "Usar el máximo contraste en todas partes elimina la jerarquía."
+        ]
+      },
+      {
+        "title": "Recorrido",
+        "body": [
+          "Repetición, curvas, diagonales y miradas pueden construir un recorrido visual.",
+          "El recorrido debe apoyar el concepto y conducir hacia los elementos principales."
+        ]
+      },
+      {
+        "title": "Cuerpo",
+        "body": [
+          "La orientación natural del brazo o torso puede convertirse en parte del recorrido visual de una composición."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "historia_estilos_evolucion",
+    "category": "Historia",
+    "title": "Historia y evolución de los estilos modernos",
+    "summary": "Panorama de cómo diferentes lenguajes del tatuaje se desarrollaron, transformaron e influyeron entre sí.",
+    "sections": [
+      {
+        "title": "Evolución",
+        "body": [
+          "Los estilos no aparecieron aislados: herramientas, culturas, artistas y movimientos visuales influyeron en su evolución.",
+          "American Traditional, Japanese, Blackwork, Chicano, Realism, New School, Fine Line y otros lenguajes tienen contextos diferentes."
+        ]
+      },
+      {
+        "title": "Lectura histórica",
+        "body": [
+          "Estudiar fechas, artistas y contextos evita presentar un estilo como una estética sin historia.",
+          "Las categorías contemporáneas pueden ser amplias y contener múltiples variantes."
+        ]
+      },
+      {
+        "title": "Aplicación",
+        "body": [
+          "Conocer el origen de un lenguaje ayuda a utilizar recursos con mayor intención y respeto."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mangas_planificacion",
+    "category": "Mangas",
+    "title": "Planificación profesional de una manga",
+    "summary": "Método para diseñar una manga completa como una sola composición corporal.",
+    "sections": [
+      {
+        "title": "Concepto",
+        "body": [
+          "Define tema, estilo, elemento principal y jerarquía antes de llenar el brazo con motivos.",
+          "Una manga coherente necesita relaciones entre piezas, no solamente buenos tatuajes individuales."
+        ]
+      },
+      {
+        "title": "Anatomía",
+        "body": [
+          "Analiza hombro, bíceps, codo, antebrazo y muñeca como zonas con movimientos y orientaciones distintas.",
+          "Los puntos de transición deben planificarse desde el principio."
+        ]
+      },
+      {
+        "title": "Continuidad",
+        "body": [
+          "Conectores, fondos y espacio negativo pueden unir escenas sin saturar.",
+          "Deja zonas de respiración cuando ayuden a separar elementos y preservar claridad."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mangas_estilos",
+    "category": "Mangas",
+    "title": "Mangas según estilo: Japanese, Blackwork, Realismo y Patchwork",
+    "summary": "Comparación de estrategias compositivas para diferentes enfoques de manga.",
+    "sections": [
+      {
+        "title": "Japanese",
+        "body": [
+          "Suele beneficiarse de una planificación extensa de tema, composición, fondos y continuidad corporal.",
+          "El contexto cultural de los motivos debe estudiarse antes de utilizarlos."
+        ]
+      },
+      {
+        "title": "Blackwork",
+        "body": [
+          "La relación entre masas negras y piel crea estructura y puede producir una lectura potente desde lejos.",
+          "La distribución de negro debe planificarse para evitar acumulaciones accidentales."
+        ]
+      },
+      {
+        "title": "Realismo y Patchwork",
+        "body": [
+          "El realismo puede requerir jerarquía de retratos y fondos; Patchwork permite piezas más independientes pero necesita decisiones sobre separación, escala y conjunto."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "errores_composicion_tatuaje",
+    "category": "Errores",
+    "title": "Errores de composición y planificación",
+    "summary": "Catálogo de fallos visuales frecuentes y formas de prevenirlos.",
+    "sections": [
+      {
+        "title": "Problemas",
+        "body": [
+          "Falta de jerarquía, demasiados elementos, mala escala, orientación incorrecta y poco espacio negativo son errores recurrentes.",
+          "Una pieza puede contener buenos dibujos y aun así fallar como composición."
+        ]
+      },
+      {
+        "title": "Prevención",
+        "body": [
+          "Haz miniaturas, versiones alternativas y pruebas de escala antes de finalizar.",
+          "Revisar la composición al día siguiente puede revelar problemas que no se percibían durante la sesión de diseño."
+        ]
+      },
+      {
+        "title": "Criterio",
+        "body": [
+          "Pregunta qué elemento debe verse primero, cuál segundo y qué información puede eliminarse sin perder el concepto."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "errores_tecnicos_profesionales",
+    "category": "Errores",
+    "title": "Errores técnicos y profesionales que afectan el resultado",
+    "summary": "Revisión de problemas relacionados con herramientas, planificación, comunicación y consistencia.",
+    "sections": [
+      {
+        "title": "Técnica",
+        "body": [
+          "Cambiar parámetros constantemente sin identificar la causa de un problema dificulta aprender qué variable produjo el resultado.",
+          "Máquina, aguja, técnica, piel y diseño forman un sistema interdependiente."
+        ]
+      },
+      {
+        "title": "Profesional",
+        "body": [
+          "Errores de documentación, consentimiento, comunicación, agenda o fotografía también afectan la práctica profesional.",
+          "Crear listas de comprobación reduce omisiones."
+        ]
+      },
+      {
+        "title": "Aprendizaje",
+        "body": [
+          "Después de una pieza, registra qué funcionó, qué falló y qué cambiarías. Convertir experiencia en información acelera la mejora."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glosario_maquinas_agujas",
+    "category": "Glosario",
+    "title": "Glosario técnico: máquinas y agujas",
+    "summary": "Diccionario ampliado de términos esenciales para comprender conversaciones técnicas.",
+    "sections": [
+      {
+        "title": "Términos",
+        "body": [
+          "Stroke: recorrido mecánico de la aguja. Give: capacidad de ceder ante resistencia. Hit: sensación de respuesta o impacto del sistema.",
+          "Hang: extensión de aguja fuera del sistema según configuración. Taper: longitud de la conicidad de la aguja."
+        ]
+      },
+      {
+        "title": "Agujas",
+        "body": [
+          "RL significa Round Liner; RS, Round Shader; M1, Magnum; RM o CM suelen identificar variantes de Magnum curvada según fabricante.",
+          "Las abreviaturas y nomenclaturas pueden variar, por lo que siempre debe consultarse el producto concreto."
+        ]
+      },
+      {
+        "title": "Aplicación",
+        "body": [
+          "El valor del glosario está en entender relaciones entre conceptos, no en memorizar palabras aisladas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glosario_tecnicas_disenio",
+    "category": "Glosario",
+    "title": "Glosario técnico: técnicas y diseño",
+    "summary": "Definiciones prácticas de conceptos que aparecen en la práctica artística.",
+    "sections": [
+      {
+        "title": "Técnicas",
+        "body": [
+          "Packing describe la construcción de saturación; Whip Shading describe un sombreado con salida progresiva; Pepper/Stippling utiliza puntos para textura o valores.",
+          "Linework se refiere al trabajo basado en líneas; Dotwork utiliza puntos como recurso estructural o tonal."
+        ]
+      },
+      {
+        "title": "Diseño",
+        "body": [
+          "Negative Space es el espacio sin pigmento utilizado activamente en la composición. Silhouette es la forma exterior reconocible de un motivo.",
+          "Hierarchy organiza prioridades visuales; focal point identifica la zona de atención principal."
+        ]
+      },
+      {
+        "title": "Errores de vocabulario",
+        "body": [
+          "No conviertas términos visuales en parámetros técnicos universales. El significado puede depender del contexto y del fabricante."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel1",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 1: fundamentos",
+    "summary": "Primer nivel curricular para construir una base sólida.",
+    "sections": [
+      {
+        "title": "Objetivos",
+        "body": [
+          "Comprender historia, anatomía básica, herramientas, higiene y lenguaje visual.",
+          "Aprender a observar el tatuaje como disciplina artística y profesional."
+        ]
+      },
+      {
+        "title": "Competencias",
+        "body": [
+          "El alumno debería poder identificar partes fundamentales de una máquina, familias básicas de agujas, capas de la piel y principios elementales de composición.",
+          "También debe comprender que seguridad y normativa forman parte del oficio."
+        ]
+      },
+      {
+        "title": "Paso siguiente",
+        "body": [
+          "Cuando estos fundamentos sean comprensibles, el estudio avanza hacia dibujo y diseño."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel2",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 2: dibujo y diseño",
+    "summary": "Desarrollo de las capacidades visuales necesarias para diseñar tatuajes.",
+    "sections": [
+      {
+        "title": "Contenido",
+        "body": [
+          "Línea, formas, volumen, valores, perspectiva, anatomía artística, simplificación de referencias y composición.",
+          "Se recomienda practicar primero sobre papel o herramientas digitales antes de intentar trasladar habilidades nuevas a una persona."
+        ]
+      },
+      {
+        "title": "Competencia",
+        "body": [
+          "El objetivo es poder construir una composición original y justificar sus decisiones visuales.",
+          "La técnica de dibujo debe acompañarse de capacidad crítica y revisión."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel3",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 3: técnica del tatuaje",
+    "summary": "Integración conceptual de máquinas, agujas, técnicas y comportamiento de la piel.",
+    "sections": [
+      {
+        "title": "Contenido",
+        "body": [
+          "Máquinas, stroke, give, hit, agujas, linework, shading, packing, dotwork y teoría del color.",
+          "Los parámetros deben estudiarse como variables relacionadas y nunca como recetas universales."
+        ]
+      },
+      {
+        "title": "Competencia",
+        "body": [
+          "El alumno debe aprender a observar resultados, identificar variables y ajustar de forma controlada dentro de procedimientos seguros."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel4",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 4: estilos y especialización",
+    "summary": "Exploración estructurada de los principales lenguajes del tatuaje.",
+    "sections": [
+      {
+        "title": "Contenido",
+        "body": [
+          "Traditional, Neo-Traditional, Japanese, Blackwork, Black & Grey, Realism, Fine Line, Dotwork, Chicano, Ornamental, New School, Watercolor, Lettering y otros.",
+          "Cada estilo debe estudiarse por historia, lenguaje visual, composición y recursos técnicos."
+        ]
+      },
+      {
+        "title": "Competencia",
+        "body": [
+          "El alumno aprende a distinguir estilos, analizar referencias y seleccionar un lenguaje coherente para un proyecto."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel5",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 5: bioseguridad y práctica responsable",
+    "summary": "Consolidación de higiene, prevención de contaminación y límites profesionales.",
+    "sections": [
+      {
+        "title": "Contenido",
+        "body": [
+          "Higiene de manos, barreras, limpieza, desinfección, esterilización, residuos, gestión de incidentes y documentación.",
+          "Los procedimientos concretos deben ajustarse a la normativa local y a las instrucciones de los productos y equipos."
+        ]
+      },
+      {
+        "title": "Competencia",
+        "body": [
+          "Comprender por qué cada barrera existe y reconocer cuándo un procedimiento no cumple las condiciones necesarias para continuar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel6",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 6: profesionalización",
+    "summary": "Conversión de habilidades artísticas y técnicas en una práctica profesional organizada.",
+    "sections": [
+      {
+        "title": "Contenido",
+        "body": [
+          "Consulta, comunicación, presupuesto, agenda, consentimiento, documentación, portfolio, fotografía, marca personal y ética.",
+          "El objetivo es crear una experiencia consistente para el cliente."
+        ]
+      },
+      {
+        "title": "Competencia",
+        "body": [
+          "El alumno debe poder organizar un proyecto desde la consulta inicial hasta la documentación final de manera profesional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel7",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 7: especialización",
+    "summary": "Construcción de una dirección artística avanzada.",
+    "sections": [
+      {
+        "title": "Especializaciones",
+        "body": [
+          "Elige una o varias áreas: realismo, blackwork, Japanese, fine line, ornamental, color, manga, lettering u otra especialidad.",
+          "La especialización debe profundizar tanto en diseño como en técnica."
+        ]
+      },
+      {
+        "title": "Portafolio",
+        "body": [
+          "Selecciona trabajos que demuestren coherencia, evolución y dominio del lenguaje elegido.",
+          "La calidad y consistencia suelen ser más informativas que la cantidad."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruta_tatuador_nivel8",
+    "category": "Ruta del tatuador",
+    "title": "Ruta del tatuador — Nivel 8: identidad de maestro",
+    "summary": "Etapa orientada a desarrollar una voz artística reconocible y capacidad crítica.",
+    "sections": [
+      {
+        "title": "Identidad",
+        "body": [
+          "Una identidad madura surge de decisiones repetidas y conscientes sobre composición, línea, valores, color, temática y adaptación corporal.",
+          "No consiste en inventar algo completamente aislado de la historia del tatuaje, sino en transformar influencias en un lenguaje personal."
+        ]
+      },
+      {
+        "title": "Maestría",
+        "body": [
+          "La mejora avanzada requiere revisar trabajo antiguo, estudiar nuevas referencias, experimentar y recibir crítica.",
+          "El objetivo final es poder explicar por qué una decisión visual funciona, no simplemente repetir una receta."
+        ]
+      }
+    ]
+  }
+]

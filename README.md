@@ -21,7 +21,7 @@ Los módulos de ejercicios, clases/lecciones y progreso fueron retirados de la n
 
 ## IA y cuota
 
-Modelo recomendado: `gemini-2.5-flash`.
+Modelo recomendado: `gemini-3.6-flash`.
 
 La API gratuita de Gemini está sujeta a cuotas y límites de Google; ARTattoo no promete uso ilimitado. El límite de 100 imágenes/día es un control local adicional para evitar un consumo accidental elevado.
 

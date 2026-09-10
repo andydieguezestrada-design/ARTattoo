@@ -107,8 +107,6 @@ Responde en español salvo que el usuario pida otro idioma.''';
         },
         'contents': contents,
         'generationConfig': {
-          'temperature': 0.45,
-          'topP': 0.9,
           'maxOutputTokens': 900,
         },
       },

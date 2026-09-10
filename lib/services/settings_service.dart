@@ -6,7 +6,7 @@ class SettingsService {
   static const String _animationsKey = 'animations_enabled';
   static const String _geminiKey = 'gemini_api_key';
   static const String _geminiModelKey = 'gemini_model';
-  static const String defaultGeminiModel = 'gemini-2.5-flash';
+  static const String defaultGeminiModel = 'gemini-3.6-flash';
 
   static final ValueNotifier<ThemeMode> themeModeNotifier = ValueNotifier<ThemeMode>(ThemeMode.system);
   static final ValueNotifier<bool> animationsNotifier = ValueNotifier<bool>(true);
@@ -53,7 +53,17 @@ class SettingsService {
 
   static Future<String> getGeminiModel() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getString(_geminiModelKey) ?? defaultGeminiModel;
+    final saved = prefs.getString(_geminiModelKey);
+    // Migrate old model selections that may no longer be available to new users.
+    if (saved == 'gemini-2.5-flash' || saved == 'gemini-2.5-flash-lite' || saved == null || saved.isEmpty) {
+      await prefs.setString(_geminiModelKey, defaultGeminiModel);
+      return defaultGeminiModel;
+    }
+    if (saved != 'gemini-3.6-flash' && saved != 'gemini-3.5-flash-lite') {
+      await prefs.setString(_geminiModelKey, defaultGeminiModel);
+      return defaultGeminiModel;
+    }
+    return saved;
   }
 
   static Future<void> setGeminiModel(String value) async {

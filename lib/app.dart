@@ -35,7 +35,7 @@ class _ArtattooAcademyAppState extends State<ArtattooAcademyApp> {
       valueListenable: SettingsService.themeModeNotifier,
       builder: (context, themeMode, _) {
         return MaterialApp(
-          title: 'ARTattoo Academy',
+          title: 'ARTattoo',
           debugShowCheckedModeBanner: false,
           theme: AppTheme.light,
           darkTheme: AppTheme.dark,

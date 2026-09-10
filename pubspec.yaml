@@ -1,7 +1,7 @@
 name: artattoo_academy
 description: ARTattoo Academy PRO - Enciclopedia tecnica del tatuaje.
 publish_to: 'none'
-version: 1.1.1+12
+version: 1.2.1+14
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -10,7 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.3.0
-  webview_flutter: 4.7.0
+  http: ^1.2.2
+  image_picker: ^1.1.2
 
 dev_dependencies:
   flutter_test:
@@ -21,6 +22,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/data/
-    - assets/ai/
     - assets/images/needles/Agujas.jpg
     - assets/images/machines/maquinas.jpg

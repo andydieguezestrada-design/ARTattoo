@@ -1,33 +1,31 @@
-# ARTattoo Academy v1.0
+# ARTattoo Academy PRO 1.2.0
 
-Academia educativa móvil, local y ligera para el aprendizaje estructurado del arte del tatuaje.
+Aplicación Flutter centrada en tatuaje, dibujo y diseño: biblioteca técnica, exploración de estilos y un mentor de IA online con Gemini.
 
-## Características
+## Incluye
 
-- Historia y fundamentos.
-- Líneas, sombreado y relleno.
-- Piel, higiene y cicatrización.
-- Máquinas, agujas, stroke y voltaje orientativo.
-- Dibujo y composición.
-- Anatomía y adaptación al cuerpo.
-- Style Explorer con 19 estilos.
-- Prácticas progresivas.
-- Dark Mode y Light Mode.
-- Sin cuentas.
-- Sin backend.
-- Sin IA.
-- Sin funciones online obligatorias.
+- Enciclopedia técnica de tatuaje.
+- Style Explorer.
+- ARTattoo AI especializado exclusivamente en tatuaje, dibujo y diseño.
+- Chat de texto con contexto conversacional.
+- Análisis de referencias de imagen con Gemini.
+- Límite local de **100 análisis de imágenes por día**.
+- Ajustes para API key y selección de modelo Gemini.
+- Prueba de conexión con Gemini.
+- Tema claro/oscuro/automático y control de animaciones.
+- Internet para servicios online.
+- Galería para seleccionar imágenes mediante `image_picker`.
+- Pipeline GitHub Actions preparado para compilar APK release.
 
-## Stack
+Los módulos de ejercicios, clases/lecciones y progreso fueron retirados de la navegación y de la lógica de la aplicación.
 
-- Flutter 3.47.2.
-- Material 3.
-- Android SDK 36.
-- Java 17 en CI.
-- Gradle 8.14.
-- Android Gradle Plugin 8.12.1.
-- Kotlin Gradle Plugin 2.2.20.
-- shared_preferences 2.5.5.
+## IA y cuota
+
+Modelo recomendado: `gemini-2.5-flash`.
+
+La API gratuita de Gemini está sujeta a cuotas y límites de Google; ARTattoo no promete uso ilimitado. El límite de 100 imágenes/día es un control local adicional para evitar un consumo accidental elevado.
+
+La API key se guarda localmente en el dispositivo. Para distribuir la APK públicamente, la arquitectura más segura es usar un backend propio y mantener la clave en el servidor.
 
 ## Ejecutar
 
@@ -38,18 +36,6 @@ flutter test
 flutter run
 ```
 
-## Compilar APK
-
-```bash
-flutter build apk --release
-```
-
-Salida:
-
-```text
-build/app/outputs/flutter-apk/app-release.apk
-```
-
 ## GitHub Actions
 
 Workflow: `.github/workflows/build-apk.yml`
@@ -57,44 +43,15 @@ Workflow: `.github/workflows/build-apk.yml`
 Pipeline:
 
 ```text
-Checkout → Java 17 → Flutter 3.47.2 → pub get → analyze → test → build APK → SHA256 → artifact
+Checkout v5 → Java 17 → Flutter stable → pub get → JSON validation → analyze → test → build APK → artifact
 ```
 
-Se ejecuta con push, pull request y `workflow_dispatch`.
-
-## Contenido
-
-```text
-assets/data/
-├── styles.json
-└── practices.json
-```
-
-Las imágenes tienen carpetas preparadas en `assets/images/`. La v1.0 no depende de URLs externas.
-
-
-Se guarda localmente mediante `shared_preferences`. No se guarda información sensible.
+El workflow usa `actions/checkout@v5` y `actions/setup-java@v5`.
 
 ## Android
 
-No se declaran permisos sensibles innecesarios. El release de CI usa firma debug únicamente para generar un APK instalable de prueba. Antes de publicar, sustituir por una firma release propia.
+Se mantiene permiso de Internet para Gemini y servicios online. `image_picker` gestiona la selección de imágenes desde la galería mediante los mecanismos nativos de Android.
 
-## Seguridad y contenido sanitario
+## Seguridad
 
-El material sobre piel, higiene y cicatrización es educativo y no sustituye formación profesional, normativa sanitaria ni evaluación médica. La app no realiza diagnósticos.
-
-Los conceptos de stroke y voltaje son orientativos y no representan configuraciones universales.
-
-## Sin IA
-
-ARTattoo Academy v1.0 no contiene chatbot, generación de imágenes por IA, reconocimiento de imágenes, Machine Learning, APIs de IA ni backend de IA.
-
-## Futuro
-
-La arquitectura queda preparada para futuras ampliaciones como quiz, favoritos, buscador, certificados, diario, galería, cursos, usuarios, premium o IA. No forman parte de v1.0.
-
-## GitHub Actions CI
-
-The CI workflow creates `android/local.properties` before invoking Gradle because Flutter's Android `settings.gradle` reads `flutter.sdk` from that file during Gradle configuration. The file is generated only in CI and is ignored by Git.
-
-The workflow also generates the Gradle wrapper after `local.properties` exists, then runs `flutter pub get`, `flutter analyze`, `flutter test`, and `flutter build apk --release`.
+Una API key incluida en una APK puede ser extraída. Para una versión pública o comercial, usar un backend propio con límites por usuario y control de abuso.
